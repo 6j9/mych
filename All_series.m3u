@@ -1,6 +1,17 @@
 #EXTM3U
 coming soon (https://static.videezy.com/system/resources/previews/000/051/767/original/200717-LoopComingSoonBlueNeonSpace.mp4)
 
+
+-----------------------------------------------------------------------
+#EXTINF:0 tvg-id="ext" group-title="وثيقة شرق",01
+https://s1.cdn-hd.com/5r63qte5zbjivea6gvk3eeiiebqxqlzijib2xhbunjf2wze4zsgcvgdxiaoa/v.mp4
+#EXTINF:0 tvg-id="ext" group-title="وثيقة شرق",01
+https://s20.cdn-hd.com/5r63qhm4zbjivea6gvk3efibhurqrm6bmkjoajgloumwtzsuf54toncxqjvq/v.mp4
+#EXTINF:0 tvg-id="ext" group-title="وثيقة شرق",01
+https://s17.cdn-hd.com/5r63qqu4zbjivea6gvk3esk6hzecwofnotar7cw4w2i3gh6akupmsaf5w4pq/v.mp4
+#EXTINF:0 tvg-id="ext" group-title="وثيقة شرق",01
+
+
 -----------------------------------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Anber6",Anber6 01
 https://aq.allviids.xyz:81/hls/zagyb5umm54ftzu2nq4a47khm6sascbcntofwmaisa4wjgf74vpunyiyesgq/index-v1-a1.m3u8
