@@ -12,7 +12,7 @@ https://cdn-fast-04-vafr.dailymotions.cam/hls/mkkhbf5lcasl4zz6qkaviwqsfrrbzpwnnp
 #EXTINF:0 tvg-id="ext" group-title="وثيقة شرف",04
 https://cdn-fast-04-vafr.dailymotions.cam/hls/mkkhaxnkcasl4zz6qkavit2spy7efnur6dfbs65qbrllu7px3w66l3i5uzgq/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="وثيقة شرف",05
-https://cached-cdn-16-portable-1dsa.dailymotions.cam/hls/mkkhgd5kcasl4zz6qkavixsfelexe25b7qcab7clim4gg5t5fs4fbngqj43a/index-v1-a1.m3u8
+https://s23.cdn-hd.com/5r63r244zbjivea6gvk3egqnnmiqujw7fnq5b5wc4kwfkhpof4o2bqe4mbba/v.mp4
 
 -----------------------------------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Anber6",Anber6 01
@@ -41,9 +41,12 @@ https://fvideo6.ddns.me/2vod5n/3l7ad-7.mp4/chunk.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""ala-alhad S1E08" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/ala-alhad.png"group-title="ala-alhad",ala-alhad S1E08
 https://fvideo6.ddns.me/2vod5n/3l7ad-8.mp4/chunk.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""ala-alhad S1E09" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/ala-alhad.png"group-title="ala-alhad",ala-alhad S1E09
-#
+https://cdn-cached-qef-13-w.dailymotians.cam/hls/liwaoq3hlu2nsti77fxcuuarutd6kgvde2g5o77zpzmysfzonitq7fmw3yya/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""ala-alhad S1E10" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/ala-alhad.png"group-title="ala-alhad",ala-alhad S1E10
+https://cdn-cached-fs-14-w.dailymotians.cam/hls/liwaowtdlu2nsti77fxcuci6x7qj6gpdalmn5x373hpzlyz77kpkctg6ihtq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""ala-alhad S1E11" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/ala-alhad.png"group-title="ala-alhad",ala-alhad S1E11
 #
+
 
 --------------------------------------Paranoia-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""Paranoia S1E01" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/pnoria.png"group-title="Paranoia",Paranoia S1E01
