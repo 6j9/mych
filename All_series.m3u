@@ -19,6 +19,11 @@ https://cdn-cached-fs-20-w.dailymotians.cam/hls/liwal5tplu2nsti77fwsuuivuv6qzrv6
 https://xr.allviids.xyz:81/hls/zagyhci5mr4ftzu2nqza4ksdow22yaehc5xm5y2avceoviw7ayd4zeosmhpa/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="وثيقة شرف",08
 https://bv.allviids.xyz:81/hls/zagyhsismr4ftzu2nqza4ocboexnwssqfonecg54qrv4s627umoppjquaeoa/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="وثيقة شرف",09
+https://vu.allviids.xyz:81/hls/zagybmyqmr4ftzu2nqza4isff7gjxj6wgfmkw4l6dcnbltm6cg6ojpua6y7a/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="وثيقة شرف",10
+https://sa.allviids.xyz:81/hls/zagyajqxmr4ftzu2nqza4pqupbubl2a5bq622we7qm6ssgencthux3optjxq/index-v1-a1.m3u8
+
 
 -----------------------------------------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="Anber6",Anber6 01
