@@ -1,7 +1,5 @@
 #EXTM3U 
-#EXTINF:-1,Series
-All_series.m3u
-#EXTINF:-1,Rmadan2021
-R2021.m3u
-اومجلد/R2021.m3u
-في حال الملف داخل المجلد
+#EXTINF:-1,الاختيار
+tst/11.m3u
+#EXTINF:-1,العاصوف
+tst/22.m3u
