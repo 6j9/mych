@@ -1,7 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="tvg-name=""tsst SE01" tvg-logo="https://github.com/6j9/mych/blob/master/img/rm22/3.png?raw=true"group-title="https://github.com/6j9/mych/blob/master/img/rm22/3.png?raw=true", SE01
-
 --------------------------------------الإختيار3-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""الإختيار3 SE01" tvg-logo="https://github.com/6j9/mych/blob/master/img/rm22/3.png?raw=true"group-title="الإختيار3",الإختيار3 SE01
 https://fvideo6b.ddns.me/2vod5n/al5tear-3-1.mp4/chunk.m3u8
@@ -1040,6 +1037,7 @@ https://fvideo6.ddns.me/2vod5n/7adrt-almawkof-10.mp4/chunk.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""حضرة موقف SE11" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/rm22/28.png"group-title="حضرة موقف",حضرة موقف SE11
 https://fvideo6b.ddns.me/2vod5n/drt-elmwqof-11.mp4/chunk.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""حضرة موقف SE12" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/rm22/28.png"group-title="حضرة موقف",حضرة موقف SE12
+https://fvideo6b.ddns.me/2vod5n/7drt-elmwqof-12.mp4/chunk.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""حضرة موقف SE13" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/rm22/28.png"group-title="حضرة موقف",حضرة موقف SE13
 #EXTINF:-1 tvg-id="tvg-name=""حضرة موقف SE14" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/rm22/28.png"group-title="حضرة موقف",حضرة موقف SE14
 #EXTINF:-1 tvg-id="tvg-name=""حضرة موقف SE15" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/rm22/28.png"group-title="حضرة موقف",حضرة موقف SE15
