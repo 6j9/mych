@@ -1,5 +1,6 @@
 #EXTM3U 
-#PLAYLIST:ختيار
-https://github.com/6j9/mych/raw/master/tst/11.m3u
-#PLAYLIST:عاصوف
-https://github.com/6j9/mych/raw/master/tst/22.m3u
+#EXTINF:-1,ختيار
+#EXTIMG:https://github.com/6j9/mych/blob/master/img/rm22/3.png?raw=true
+tst/11.m3u
+#EXTINF:-1, عاصوف
+tst/22.m3u
