@@ -1,5 +1,7 @@
 #EXTM3U 
+#PLAYLIST:ختيار
 #EXTINF:-1,الاختيار
 tst/11.m3u
+#PLAYLIST:عاصوف
 #EXTINF:-1,العاصوف
 tst/22.m3u
