@@ -1,6 +1,6 @@
 #EXTM3U
 --------------------------------------الإختيار3-------------------------------------------------
-#EXTINF:-1 tvg-id="tvg-name=""الإختيار3 SE01" group-logo="https://github.com/6j9/mych/blob/master/img/rm22/3.png?raw=true"group-title="الإختيار3",الإختيار3 SE01
+#EXTINF:-1 tvg-id="tvg-name=""الإختيار3 SE01" tvg-logo="https://github.com/6j9/mych/blob/master/img/rm22/3.png?raw=true"group-title="الإختيار3",الإختيار3 SE01
 https://fvideo6b.ddns.me/2vod5n/al5tear-3-1.mp4/chunk.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""الإختيار3 SE02" tvg-logo="https://github.com/6j9/mych/blob/master/img/rm22/3.png?raw=true"group-title="الإختيار3",الإختيار3 SE02
 https://fvideo6b.ddns.me/2vod5n/el5tear-3-2.mp4/chunk.m3u8
