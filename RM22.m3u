@@ -1330,7 +1330,10 @@ https://fvideo6.ddns.me/vod5nn/7art-elkoba-30.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""حارة القبة SE31" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/rm22/24.png"group-title="حارة القبة",حارة القبة SE31
 https://fvideo6b.ddns.me/vod5nn/7art-elkoba-2-31.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""حارة القبة SE32" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/rm22/24.png"group-title="حارة القبة",حارة القبة SE32
-https://cdn.alarab.com/h264/172093_480p.mp4/index-v1-a1.m3u8
+https://fvideo6.ddns.me/vod5nn/7art-elkoba-2-32.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""حارة القبة SE33" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/rm22/24.png"group-title="حارة القبة",حارة القبة SE33
+https://fvideo6b.ddns.me/vod5nn/7art-elkoba-2-33.mp4/playlist.m3u8
+
 --------------------------------------حامض حلو-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""حامض حلو SE01" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/rm22/25.png"group-title="حامض حلو",حامض حلو SE01
 https://fvideo6b.ddns.me/2vod5n/7amd-7lo-3-1.mp4/chunk.m3u8
@@ -1517,6 +1520,8 @@ https://fvideo6b.ddns.me/vod5nn/7wazik-29.mp4/playlist.m3u8
 https://fvideo6b.ddns.me/vod5nn/7wazik-30.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""حوازيق SE31" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/rm22/29.png"group-title="حوازيق",حوازيق SE31
 https://fvideo6b.ddns.me/vod5nn/7wazik-31.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""حوازيق SE32" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/rm22/29.png"group-title="حوازيق",حوازيق SE32
+https://fvideo6b.ddns.me/vod5nn/7wazik-32.mp4/playlist.m3u8
 
 --------------------------------------دايما عامر-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""دايما عامر SE01" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/rm22/30.png"group-title="دايما عامر",دايما عامر SE01
