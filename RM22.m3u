@@ -846,6 +846,10 @@ https://fvideo6.ddns.me/vod5nn/brokar-2-28.mp4/playlist.m3u8
 https://fvideo6.ddns.me/vod5nn/brokar-2-29.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""بروكار SE30" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/rm22/80.png"group-title="بروكار",بروكار SE30
 https://fvideo6b.ddns.me/vod5nn/brokar-2-30-f.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""بروكار SE31" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/rm22/80.png"group-title="بروكار",بروكار SE31
+https://cdn.alarab.com/h264/172091_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""بروكار SE32" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/rm22/80.png"group-title="بروكار",بروكار SE32
+https://cdn.alarab.com/h264/172102_480p.mp4/index-v1-a1.m3u8
 
 --------------------------------------بطلوع الروح-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""بطلوع الروح SE01" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/rm22/16.png"group-title="بطلوع الروح",بطلوع الروح SE01
