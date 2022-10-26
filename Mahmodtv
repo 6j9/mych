@@ -1,625 +1,625 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="" tvg-name="----------- BOUQUET SPORT ARABE -----------" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="BOUQUET BEIN SPORTS AR",----------- BOUQUET SPORT ARABE -----------
+#EXTINF:-1 tvg-ID="" tvg-name="----------- SPORTArabic Ch. -----------" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN SPORTS AR",----------- SPORTArabic Ch. -----------
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2446
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1 PREMIUM FHD" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 1 PREMIUM FHD
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1 PREMIUM FHD" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 1 PREMIUM FHD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665021082
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2 PREMIUM FHD" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 2 PREMIUM FHD
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2 PREMIUM FHD" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 2 PREMIUM FHD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665021083
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3 PREMIUM FHD" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 3 PREMIUM FHD
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3 PREMIUM FHD" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 3 PREMIUM FHD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665021084
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1 HD local" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 1 HD local
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1 HD local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 1 HD local
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665018450
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1 HD  local" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 1 HD  local
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1 HD  local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 1 HD  local
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665018214
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2 HD local" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 2 HD local
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2 HD local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 2 HD local
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665018215
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3 HD local " tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 3 HD local 
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3 HD local " tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 3 HD local 
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665018216
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 4 HD local" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 4 HD local
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 4 HD local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 4 HD local
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665018217
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 5 HD local" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 5 HD local
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 5 HD local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 5 HD local
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665019578
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 6 HD local" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 6 HD local
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 6 HD local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 6 HD local
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665019579
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 7 HD local  " tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",BEIN SPORTS 7 HD local  
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 7 HD local  " tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 7 HD local  
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665019580
-#EXTINF:-1 tvg-ID="BeIN Sports MENA News" tvg-name="|AR.BEIN|  BEIN SPORTS NEWS HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN|  BEIN SPORTS NEWS HD
+#EXTINF:-1 tvg-ID="BeIN Sports MENA News" tvg-name="|AR.BEIN|  BEIN SPORTS NEWS HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png" group-title="BEIN SPORTS AR",|AR.BEIN|  BEIN SPORTS NEWS HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1898
-#EXTINF:-1 tvg-ID="BeIN Sports MENA News" tvg-name="|AR.BEIN|  BEIN SPORTS NEWS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN|  BEIN SPORTS NEWS
+#EXTINF:-1 tvg-ID="BeIN Sports MENA News" tvg-name="|AR.BEIN|  BEIN SPORTS NEWS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png" group-title="BEIN SPORTS AR",|AR.BEIN|  BEIN SPORTS NEWS
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1815
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN SPORTS 1 FHD." tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| BEIN SPORTS 1 FHD.
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN SPORTS 1 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN| BEIN SPORTS 1 FHD.
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9681
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN SPORTS 2 FHD." tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| BEIN SPORTS 2 FHD.
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN SPORTS 2 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN| BEIN SPORTS 2 FHD.
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9680
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN SPORTS 3 FHD." tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| BEIN SPORTS 3 FHD.
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN SPORTS 3 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN| BEIN SPORTS 3 FHD.
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9679
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN SPORTS 4 FHD." tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| BEIN SPORTS 4 FHD.
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN SPORTS 4 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN| BEIN SPORTS 4 FHD.
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9678
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN SPORTS 5 FHD." tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| BEIN SPORTS 5 FHD.
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN SPORTS 5 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN| BEIN SPORTS 5 FHD.
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9677
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN SPORTS 6 FHD." tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| BEIN SPORTS 6 FHD.
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN SPORTS 6 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN| BEIN SPORTS 6 FHD.
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9676
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN SPORTS 7 FHD." tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| BEIN SPORTS 7 FHD.
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN SPORTS 7 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN| BEIN SPORTS 7 FHD.
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9675
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN EXTRA 1 FHD." tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| BEIN EXTRA 1 FHD.
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN EXTRA 1 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN| BEIN EXTRA 1 FHD.
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9674
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN EXTRA 2 FHD." tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| BEIN EXTRA 2 FHD.
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN EXTRA 2 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN| BEIN EXTRA 2 FHD.
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9673
 
-#EXTINF:-1 tvg-ID="" tvg-name="======== OTHERS SPORTS ========" tvg-logo="" group-title="BOUQUET  ARABE",======== OTHERS SPORTS ========
+#EXTINF:-1 tvg-ID="" tvg-name="======== OTHERS SPORTS ========" tvg-logo="" group-title="Arabic Ch.",======== OTHERS SPORTS ========
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/3561
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ABUDHABI SPORT 1 HD" tvg-logo="https://1.bp.blogspot.com/-QT2oTzGaTCo/WlEIZI49Y8I/AAAAAAAAAWs/4_2pxdyrpTMSTu6bNmxdzu_ZsYzuYEK-gCLcBGAs/s1600/1-%25D8%25AA%25D8%25B1%25D8%25AF%25D8%25AF-%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9-%25D8%25A3%25D8%25A8%25D9%2588%25D8%25B8%25D8%25A8%25D9%258A-%25D8%25A7%25D9%2584%25D8%25B1%25D9%258A%25D8%25A7%25D8%25B6%25D9%258A%25D8%25A9-abu-dhabi-sports.png" group-title="BOUQUET  ARABE",|AR.UAE|  ABUDHABI SPORT 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ABUDHABI SPORT 1 HD" tvg-logo="https://1.bp.blogspot.com/-QT2oTzGaTCo/WlEIZI49Y8I/AAAAAAAAAWs/4_2pxdyrpTMSTu6bNmxdzu_ZsYzuYEK-gCLcBGAs/s1600/1-%25D8%25AA%25D8%25B1%25D8%25AF%25D8%25AF-%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9-%25D8%25A3%25D8%25A8%25D9%2588%25D8%25B8%25D8%25A8%25D9%258A-%25D8%25A7%25D9%2584%25D8%25B1%25D9%258A%25D8%25A7%25D8%25B6%25D9%258A%25D8%25A9-abu-dhabi-sports.png" group-title="Arabic Ch.",|AR.UAE|  ABUDHABI SPORT 1 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1897
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ABUDHABI SPORT 2 HD" tvg-logo="https://pbs.twimg.com/media/DeDjfarUwAALLUl.png" group-title="BOUQUET  ARABE",|AR.UAE|  ABUDHABI SPORT 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ABUDHABI SPORT 2 HD" tvg-logo="https://pbs.twimg.com/media/DeDjfarUwAALLUl.png" group-title="Arabic Ch.",|AR.UAE|  ABUDHABI SPORT 2 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1869
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ABUDHABI SPORT 3 HD" tvg-logo="https://frequencyme.com/wp-content/uploads/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-3-abu-dhabi-sports.png" group-title="BOUQUET  ARABE",|AR.UAE|  ABUDHABI SPORT 3 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ABUDHABI SPORT 3 HD" tvg-logo="https://frequencyme.com/wp-content/uploads/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-3-abu-dhabi-sports.png" group-title="Arabic Ch.",|AR.UAE|  ABUDHABI SPORT 3 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1990
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ABUDHABI SPORT 4 HD" tvg-logo="http://oklivetv.com/wp-content/uploads/media/22af4986d456b2c2684db1ce025fec50.jpeg" group-title="BOUQUET  ARABE",|AR.UAE|  ABUDHABI SPORT 4 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ABUDHABI SPORT 4 HD" tvg-logo="http://oklivetv.com/wp-content/uploads/media/22af4986d456b2c2684db1ce025fec50.jpeg" group-title="Arabic Ch.",|AR.UAE|  ABUDHABI SPORT 4 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2678
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  NILE SPORT" tvg-logo="https://www.elfagr.com/upload/photo/news/283/8/600x338o/251.jpg" group-title="BOUQUET  ARABE",|AR.EGY|  NILE SPORT
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  NILE SPORT" tvg-logo="https://www.elfagr.com/upload/photo/news/283/8/600x338o/251.jpg" group-title="Arabic Ch.",|AR.EGY|  NILE SPORT
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1821
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  DUBAI RACING" tvg-logo="https://pbs.twimg.com/profile_images/993899145990729730/wifDLmuI_400x400.jpg" group-title="BOUQUET  ARABE",|AR.UAE|  DUBAI RACING
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  DUBAI RACING" tvg-logo="https://pbs.twimg.com/profile_images/993899145990729730/wifDLmuI_400x400.jpg" group-title="Arabic Ch.",|AR.UAE|  DUBAI RACING
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2156
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  SAUDIA SPORT 1" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEhAPEBIQDxUPDxAPEA8PFRUQDw8PFRUWFhURFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OGBAQGi0dHR0tKy0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTc3LTctKy0rLf/AABEIAK8BIAMBIgACEQEDEQH/xAAbAAADAAMBAQAAAAAAAAAAAAAAAQIEBQYDB//EAEMQAAICAQEEBQcJBgUFAQAAAAABAhEDBAUGEiETMUFRYRYiU2JxkZIHFBcyQlKBodFDVIKTscEjc6Lh8CQzRGNyFf/EABoBAQEAAwEBAAAAAAAAAAAAAAABAgMEBQb/xAAlEQADAQABBAICAgMAAAAAAAAAARECAxIhMVEEQRMiYXEFYoL/2gAMAwEAAhEDEQA/APkdBQwPahyUVBRQAhNAUBC0kB0OgCQKCgCQKoKBRAOhgEgWKgCR0VQUQpIMpIdAEBRVBQBNBRdBQBKQUVQCAnhDhLAAjhFR6UFCFPPhHRdBQBFA0VQUGZU7LZEuLRuPqSRxb7jrNgS/6dp+scs1zftZwfEU1v8As2cr7IXCKi6A9E5KRQUVQUATQ6GMQUigZfCHCCkpBRdACEUFF0FApIUVQJAtJ4QopjokFIoKLoVCCk0Oh0OgWkUFF0OgDzoKLoOEQEoKKoKAFQDoKIUVBQ0DKKIEhoYKRQF0FAHQbJlWB+yRzrXN+032llWH+FmjSOP4+ZrX9mzb8CoKL4Qo7zkpFBRVDSApFBRdHrpNLLLOOKCuU2oxXe2RsHhQqOsXye7Q9CvjiP6OtoehXxxMfyY9mfRo5Ogo61fJ1tH0MfjiNfJ1tH0C+OI/Lj2OlnIhR130c7R9CvjiP6Odo+hXxxJ+THsdOjkeEKOu+jjaPoV8cQ+jjaPoV8cSfkz7L069HI0FHXfRztH0K+OIvo62j6FfHEfkz7HSzkqCjrvo52j6FfHEX0c7R9CvjiX8mfY6WclQUda/k62j6FfHEwtr7oavSY+lz44wjdXxJ2+5ILkyxGjn0h0Z0NlZpJSjjm0+aaXJrvK//Hz+in7jPpfo1/lx7NdQUZGHTTnNY4Rcpt8KjHm2+42fkprv3XN8Jp3zceHNOM25y34NJQzJ1uiyYJOGWDxySvhlyaXew0+jnktwi5JdbXUZ9WZ1fTMdaWfPYxWgMjPglB1OLi66n2Bh08p3wq65sPSlpnhPXjuY9Do9HEVAhFDoqh0Up5tBR6UOCtoj8BGwySrFXhRqqNhqpebRhmrizEZ6YuEXCWh0dUOQigSKoKICaO0+S/ZnSaiWokvNwR83/MfV+RxrR9Z3P0602mxx+1P/ABJ+19S9xz/J305hu4lWdnDMc1vDvDmjqtNotM4qWR8WVyXFww7vDkZmTaChGU2+UYuT9iPnWzddqp6jLr8ODpuNuEXLqivD8Dj483ub9OH2NZfxOf2/vji0z6LEnqM0uUcOLzmn4tdRwu1t5tdJwwZktHHI0nkinai+T5nX7v7HwaWPFj8+c+cs0/OlL8ewPCz3YTplbI1ushCep1+THigk59DGPnQj60v7GojvFtPWXl0OGEMPE1GWSuKddvMzd78GTU6bJiwtcTp1dcS7Uc7s3au0tPihghpI1jVJ9/jyZllJqkbNp842993B/pKWfb3dp18JhreLan7pD8/1M7dfezJqJZseoxrHLCrlXV4lac8IJ9za7d3nnpIYcKitRqsySUI8o32yfgaj5xt5u+HBHw83kc1HX6rPrMmuwYVn6OUseO+qKXajcveHan7pD/n4jpnoUy5ajb33dP8A6TK3K3l1WfNn0+qUbwr60Fyu+aNFr96tpYoOeTTY8carivqb6q5mz3F0zw4Hln9fUSeST7afUTS/WsJ9zuXmPmPykbSeo1OLRxdxx1LJXVxP9DsdbtNYoTySfKEXL8ew+WbOm8uXLqZ83OTq/E2/D4+rVf0aPmcixxs3cJUkl2UjE2trejxSdu2uGPPtZfH/AFNFtnK8mSOKPPmkl6z5Hq83KsYbPD+Nwvk5UdP8luyblPWTV8Hm477ZfakfQ9pbWWHHPLJ0oRcuvt7EajY2mWnwYsS+zHn/APT62cl8ou17UdLF9fnZP7I+Bed/O+Z57U+w7cPEcZtTWz1OaeaTt5JXz58r5I3ujisOJJ9icpe00ez4R4uKT5R5+19xlbR16lHgjfPm/YfR8nd54s/R4HyLy7Wfo12rzPJOU32vl7Ow2V9DgpfWy/0NfgjzvsXNj1OeWR2+zqNu/wBtLC8Lye38ZLh4Xv7fZGPQUUkOjrhwt0mhF0FAE0XhXMVHpiRNeAhah2eVFz6xUMqIrIApoVG05oIB0BQZ2xdN0maCfUnxS9iPokdZXUfO9ma7obfDblyu65GwW8PqP3nBz41rXg6uNpI6DeXVzlh6LGpSeV8LcU3wx7eo2OyqwYseKP2Vz9vacgt5fUfvKW83qP3mp8e5IZ9WbadRt7Tx1WJwf1lbg+1P/cxt1to5Yw6DNCScPqTkqTj3WaDyn9R+8pb0eo/eXo3I0Sq1G+1e82eM5RhppzinSlz5nl5V6n90n+f6GoW9PqP3h5VP7kveVcb9B6Xs2/lNqpJxjppRb5KTbST7zHlgyabTZVFPJm1MvPcOfDfWa/yq9R+8PKp9kH7y9GvpCr2dXsKC0+GGNcnVyfrMz/n3icL5Ueo/eHlR/wCt+81vi36MltI3G8Up6nJhwJPo1JTySrzXXYb1apRSiuSSpV2JHE+VHqP3ie83qP3lfHtqBaybTfParcI4Yvnkduu40um1kYRjFJ8v6mu1uueXI8kl7F3Hn848Dv4Mrjyed8rL5HDbZdqtLkid2sTnm6Z/Y87+LsNRPLddhttl7Wx4YcPDJttuTVVfYcv+T3ya4XnCrZu+DxLGro67VbUnGMpObqKd9h8+1mpeWcsknbk7/RGw2ttbpYqEU0vtX2mpTrn10cH+M+G+DD3pfszs+Vy9XbJ7t0q7uv2nh1g231jjyO3g42m968s4uDj/AGrLk6Vd55j4rdsGbeHLVevLPQ+TyLUznwgQDFRvOWDEMABFWIAWAJBYcQEIsLJ4hcRmaC7FYrFYB1W5O6/z6UpZJOGLG1xcP1pv7q7vafQ/JHZeOoyxR/jyNN/mcj8mm1YRjk08moylPjjf2uyjd7xbs49ZOOWWXJiajwtLnFrvXccPLvXVKdOcrpNmt2tk+jxfzX+o3uhsvKnGGON1148jbXj1nLr5P8X7xl+EyNDud83l0mHV5ccqaT4bVeKsxv8AsWfwcvvpuy9BkXC3PFkt45PrT+7LxPoewt0tnz0+HJkwJyljjKUuJq32s+fb6Y9ZBwjqsnTQtvFkSSi32+xn0XYma9Hiiut4FFe2jPk04u5MpUt7tbI7ceL+a/1H5NbI9Hi/mv8AU+Z5dzta5SfR9cm1567X7SPI3XejXxoiz/sL/B9Ny7lbMzRaxw4X9/FkbcX3ny/evdyehzLHfHHJ/wBqa+0r6n4nVbjbB1OlySy5pKEXHh6NS4uJ979h4fKRrozy6XGnbhLiddltFxt5bVoeU0brdv5P9NDHGer4ss5RUnFS4YQvnXibOW7WyV+yxfzP9zx3i1slpMzi6fQ8muvqR8Zc2+tv3smFrddK4j7S93dk+jxfzX+ovJXZmRNRxRfjDI21+Z8Xv2+9nRbg6iUdVFJunCVq3T5dpdcesq0Jp/R674btLRZIOEuPFlkuHi+tHnzi+87rHuzs9QjKWCH1E23KS7LOd+UXPxQwf5hvdVJ5cPRp1x41G+xcka9bbSKspEy2NszsxYvjf6nhk2Vs1fssXxv9TlXuZNf+RD3SIe6EvTw90jL/AKIdFq93tFli+CHRvsljk3T8V2nIafQRw6uOHMoyipc7dRlF9TOk2VolpYOPHxtu2+qKXhZye39UsmaUk+SqNmXG9NtUrSOvnp9Ev2OH4n+p4/N9K/q4MT9jk/7nCs3OwMlRn7UTkxrKtCaZu8kNMuvBiX4y/U8Jy03OsWL3v9TQ7aneT8EYBljGmrQ4bTZ+hjknklJ8OOD58PW7+yjYy6CK5YYfxNuXvs02g1PDce9p/iZOSMJ1x8XL7tGHJrXVGypGZLNh9Di/P9TzlmxP9li/C1/cxHgw9+X8iXjxLqeX8iN/yUnW44VxQtK6cG7p96ZhtntqIcrUuJN9vJr2ngdPG/1MGhhYrCzYIeIyLDiLTRCrAiwstEOk3Z2LDURlN5Z4pQl1QS/Bmz1mh2jCXDhzTywrzZNpP2M5HZ20Z4JKeN0+prsa8ToI75zrnjjfenRzbW7TbmQyI6fav3p/FEz9i49oxzQeaT4F9ZSafLwo1K30l6JfEOW+s+zFH8Wa2tPtDKpfZuvlA1K+bxg3beROK5dnabjZGp4dLifXw4k6/A+XbR2jk1EuPI7fYl1JG40+9koY1i6NOocN34UV8TiQWjZPf7Im/wDBj1v7TF5f5PQx+I4yUr597EbFw5MepnYajf3M01CEINr61ttexHNT1csmRZJycm5qTb9piBZksJLsK2fXdbWowPHGSXSY0lLs5o4SW6WqT+rF+KkqPDZe8uXDFQdTiupN00Z/lnL0S95pyt48GTjMXyU1X3I/Gja7t7By6fL0uXhjwppRT4m2/Z1GH5Yy9EveRLe6fZjivxLp8jULEjYb8ahNYY3b47rwNvqtW44XJdccdr20fO9XrZ5Z8c3b7uxLuRtc28kpQePgSuPDdmL4nEUl7y6h/aj8KMzZW8MpS4MzXndUlyp+JzCY7Nr4stEOv25HJON45NUvOgu1eBybf/PE2On23KMVFrirtvnXcYOrzqcuNR4b60uqycaeewZ58RtNjypT9qNRZk6bVOF8rsvKm8wJHttN3P8ABGJZWoy8bvq8DzMsdlGDL0kIO+NyTXVw1/c9Z4G3/hybXrNJmAmenTPwNW1qmSMh6WffH4kOGll9qUUu3mmYvSPuFxmE16B6ZGedicu0Ru4s9KghQWKxWbKIeNhZAGRohdhZCACFWOyUAELTCyQshYOwJsdgygxk2AEKCyQAhVhZIClhYCsLJSwdAhBYKMBILAKEFgCjoLFYGNLB2MkBRBgCYgWFJhYgFKOx2SMAdisVACwxwsix2ZHMVY0SmALCgJFYBdjshMKBYU2MmwsFhSAmx2CwqwskLIIVYyUwIWDsECGCwCiRWQsKAlBZRCgIGmCwqw4iR2QpVgSiiCDQ0TYWCwqwsQrAgwFYWCjAVgUQxgFYzM5oMLEFgJDQAAKMGxWIlMkMGIZCwY0ILAg7BMQwWAMlsZBB2Ah2CjQMQwVIATEFilgwFYIFSGAgJRCgbEDBYUmFkggIVYWKwBYFjACUsCwsRl6TTKuknyiudfe8CpUx1rpNYFkjM6c47GSNEEHYxACgAACoB2IEQsHY7JsAWFWFk0OJCwoYgAAdCQ7FLAodibECwYCYIlLBgAIhR2FgIpRhQIZCioBgAAWKgBYNMLEZmk0qp5Z/VTql1tlSphvSyg0umTXSZOUF75ewjV6pzddUVyjFdVC1WqeR9yXVFdSRjlbnZEzhv9mf/9k=" group-title="BOUQUET  ARABE",|AR.KSA|  SAUDIA SPORT 1
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  SAUDIA SPORT 1" tvg-logo="data:image/jpeg;base64,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" group-title="Arabic Ch.",|AR.KSA|  SAUDIA SPORT 1
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2689
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  SAUDIA SPORT 2" tvg-logo="" group-title="BOUQUET  ARABE",|AR.KSA|  SAUDIA SPORT 2
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  SAUDIA SPORT 2" tvg-logo="" group-title="Arabic Ch.",|AR.KSA|  SAUDIA SPORT 2
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/8107
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  SHARJAH SPORT HD" tvg-logo="https://3.bp.blogspot.com/-KhvTLIK30uw/WNEZoPNwZCI/AAAAAAAADqM/S3Rmo3gD-bo_dq7jR6kM323zE_EfiofrgCLcB/s1600/%25D8%25AA%25D8%25B1%25D8%25AF%25D8%25AF%2B%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D9%2584%25D8%25B4%25D8%25A7%25D8%25B1%25D9%2582%25D8%25A9%2B%25D8%25A7%25D9%2584%25D8%25B1%25D9%258A%25D8%25A7%25D8%25B6%25D9%258A%25D8%25A9.png" group-title="BOUQUET  ARABE",|AR.UAE|  SHARJAH SPORT HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  SHARJAH SPORT HD" tvg-logo="https://3.bp.blogspot.com/-KhvTLIK30uw/WNEZoPNwZCI/AAAAAAAADqM/S3Rmo3gD-bo_dq7jR6kM323zE_EfiofrgCLcB/s1600/%25D8%25AA%25D8%25B1%25D8%25AF%25D8%25AF%2B%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D9%2584%25D8%25B4%25D8%25A7%25D8%25B1%25D9%2582%25D8%25A9%2B%25D8%25A7%25D9%2584%25D8%25B1%25D9%258A%25D8%25A7%25D8%25B6%25D9%258A%25D8%25A9.png" group-title="Arabic Ch.",|AR.UAE|  SHARJAH SPORT HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2157
-#EXTINF:-1 tvg-ID="" tvg-name="----------- BOUQUET MAROC -----------" tvg-logo="https://thecvf.org/wp-content/uploads/2018/08/Morocco-flag.png" group-title="BOUQUET  ARABE",----------- BOUQUET MAROC -----------
+#EXTINF:-1 tvg-ID="" tvg-name="----------- MAROC -----------" tvg-logo="https://thecvf.org/wp-content/uploads/2018/08/Morocco-flag.png" group-title="Arabic Ch.",----------- MAROC -----------
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2450
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  AL AOULA HD" tvg-logo="http://www.alaoula.ma/lallalaaroussa/images/alaoula.png" group-title="BOUQUET  ARABE",|AR.MAR|  AL AOULA HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  AL AOULA HD" tvg-logo="http://www.alaoula.ma/lallalaaroussa/images/alaoula.png" group-title="Arabic Ch.",|AR.MAR|  AL AOULA HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1361
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  2M MAROC" tvg-logo="http://www.logo20.com/img/miniatures/logo-2m.png" group-title="BOUQUET  ARABE",|AR.MAR|  2M MAROC
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  2M MAROC" tvg-logo="http://www.logo20.com/img/miniatures/logo-2m.png" group-title="Arabic Ch.",|AR.MAR|  2M MAROC
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1372
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  ARRIADIA   MAROC" tvg-logo="https://4.bp.blogspot.com/-SRWcczSEoyg/WZI4KttyICI/AAAAAAAAFEk/QncjI7h1AbofRUO13XYA0o17CWltqbuzACLcBGAs/s640/arryadia.jpg" group-title="BOUQUET  ARABE",|AR.MAR|  ARRIADIA   MAROC
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  ARRIADIA   MAROC" tvg-logo="https://4.bp.blogspot.com/-SRWcczSEoyg/WZI4KttyICI/AAAAAAAAFEk/QncjI7h1AbofRUO13XYA0o17CWltqbuzACLcBGAs/s640/arryadia.jpg" group-title="Arabic Ch.",|AR.MAR|  ARRIADIA   MAROC
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/743
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  ASSADISSA" tvg-logo="http://www.assadissatv.ma/images/idaatmohammedassadiss.png" group-title="BOUQUET  ARABE",|AR.MAR|  ASSADISSA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  ASSADISSA" tvg-logo="http://www.assadissatv.ma/images/idaatmohammedassadiss.png" group-title="Arabic Ch.",|AR.MAR|  ASSADISSA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1376
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  TAMAZIGHT 8" tvg-logo="http://www.consulatdumaroc.ca/img/tv/8.png" group-title="BOUQUET  ARABE",|AR.MAR|  TAMAZIGHT 8
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  TAMAZIGHT 8" tvg-logo="http://www.consulatdumaroc.ca/img/tv/8.png" group-title="Arabic Ch.",|AR.MAR|  TAMAZIGHT 8
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1378
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  ARRABIAA" tvg-logo="http://3.bp.blogspot.com/-4DqIrnagy1o/T1yrUcykRiI/AAAAAAAAAAA/X7a9G2TGtjo/s320/logo_arrabia.png" group-title="BOUQUET  ARABE",|AR.MAR|  ARRABIAA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  ARRABIAA" tvg-logo="http://3.bp.blogspot.com/-4DqIrnagy1o/T1yrUcykRiI/AAAAAAAAAAA/X7a9G2TGtjo/s320/logo_arrabia.png" group-title="Arabic Ch.",|AR.MAR|  ARRABIAA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1375
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  MEDI 1 SAT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png" group-title="BOUQUET  ARABE",|AR.MAR|  MEDI 1 SAT
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  MEDI 1 SAT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png" group-title="Arabic Ch.",|AR.MAR|  MEDI 1 SAT
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1785
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  TELE MAROC" tvg-logo="https://i.ytimg.com/vi/0eGnKj1TG2A/hqdefault.jpg" group-title="BOUQUET  ARABE",|AR.MAR|  TELE MAROC
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  TELE MAROC" tvg-logo="https://i.ytimg.com/vi/0eGnKj1TG2A/hqdefault.jpg" group-title="Arabic Ch.",|AR.MAR|  TELE MAROC
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/3281
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  AFLAM 7" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_aflam_tv.png" group-title="BOUQUET  ARABE",|AR.MAR|  AFLAM 7
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  AFLAM 7" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_aflam_tv.png" group-title="Arabic Ch.",|AR.MAR|  AFLAM 7
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/3891
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  AL AOULA INTER" tvg-logo="http://www.alaoula.ma/lallalaaroussa/images/alaoula.png" group-title="BOUQUET  ARABE",|AR.MAR|  AL AOULA INTER
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  AL AOULA INTER" tvg-logo="http://www.alaoula.ma/lallalaaroussa/images/alaoula.png" group-title="Arabic Ch.",|AR.MAR|  AL AOULA INTER
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1373
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  MAROCAINE: AL MAGHRIBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/54/Logo_al_maghribia.png" group-title="BOUQUET  ARABE",|AR.MAR|  MAROCAINE: AL MAGHRIBIA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR|  MAROCAINE: AL MAGHRIBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/54/Logo_al_maghribia.png" group-title="Arabic Ch.",|AR.MAR|  MAROCAINE: AL MAGHRIBIA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1374
-#EXTINF:-1 tvg-ID="" tvg-name="----------- BOUQUET ALGERIE -----------" tvg-logo="https://www.fg-a.com/flags/algeria-flag-clipart-1.png" group-title="BOUQUET  ARABE",----------- BOUQUET ALGERIE -----------
+#EXTINF:-1 tvg-ID="" tvg-name="----------- ALGERIE -----------" tvg-logo="https://www.fg-a.com/flags/algeria-flag-clipart-1.png" group-title="Arabic Ch.",----------- ALGERIE -----------
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2449
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ECHOROUK ALGERIE" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|| ECHOROUK ALGERIE
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ECHOROUK ALGERIE" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|| ECHOROUK ALGERIE
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017041
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ECHOROUK NEWS" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|| ECHOROUK NEWS
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ECHOROUK NEWS" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|| ECHOROUK NEWS
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017042
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALGERIA 1 TV" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|| ALGERIA 1 TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALGERIA 1 TV" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|| ALGERIA 1 TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017043
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALDJAZAIRIA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|| ALDJAZAIRIA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALDJAZAIRIA" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|| ALDJAZAIRIA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017044
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALNAHAR ALGERIE" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|| ALNAHAR ALGERIE
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALNAHAR ALGERIE" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|| ALNAHAR ALGERIE
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017045
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALHADDAF" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|| ALHADDAF
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALHADDAF" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|| ALHADDAF
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017046
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| BEUR TV" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|| BEUR TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| BEUR TV" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|| BEUR TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017047
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| NUMIDIA TV" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|| NUMIDIA TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| NUMIDIA TV" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|| NUMIDIA TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017048
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALBAHIYA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|| ALBAHIYA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALBAHIYA" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|| ALBAHIYA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017049
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALFADJR ALGERIA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|| ALFADJR ALGERIA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALFADJR ALGERIA" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|| ALFADJR ALGERIA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017050
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALBILAD" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|| ALBILAD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALBILAD" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|| ALBILAD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017051
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| BERBERE TV" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|| BERBERE TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| BERBERE TV" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|| BERBERE TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017052
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALGERIA QURAN" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|| ALGERIA QURAN
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALGERIA QURAN" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|| ALGERIA QURAN
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017053
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| TAMAZIGHT ALGERIE" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|| TAMAZIGHT ALGERIE
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| TAMAZIGHT ALGERIE" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|| TAMAZIGHT ALGERIE
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017054
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| DZAIER 3" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|| DZAIER 3
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| DZAIER 3" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|| DZAIER 3
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017055
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALHAYAT ALGERIA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|| ALHAYAT ALGERIA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| ALHAYAT ALGERIA" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|| ALHAYAT ALGERIA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017056
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| CHAMS TV ALGERIA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|| CHAMS TV ALGERIA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|| CHAMS TV ALGERIA" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|| CHAMS TV ALGERIA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017057
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  CANAL ALGERIE 1" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|  CANAL ALGERIE 1
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  CANAL ALGERIE 1" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|  CANAL ALGERIE 1
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665014798
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  BAHIA  TV" tvg-logo="http://manager.ndasat.pro/picons/bahia_tv_dz.png" group-title="BOUQUET  ARABE",|AR.ALG|  BAHIA  TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  BAHIA  TV" tvg-logo="http://manager.ndasat.pro/picons/bahia_tv_dz.png" group-title="Arabic Ch.",|AR.ALG|  BAHIA  TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/4376
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ALGERIE ENTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/ENTV_%26_EPTV_logo.png" group-title="BOUQUET  ARABE",|AR.ALG|  ALGERIE ENTV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ALGERIE ENTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/ENTV_%26_EPTV_logo.png" group-title="Arabic Ch.",|AR.ALG|  ALGERIE ENTV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2667
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  BEUR TV" tvg-logo="http://ulango.tv/uploads/channels/59978/logo_beur%20tv.png" group-title="BOUQUET  ARABE",|AR.ALG|  BEUR TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  BEUR TV" tvg-logo="http://ulango.tv/uploads/channels/59978/logo_beur%20tv.png" group-title="Arabic Ch.",|AR.ALG|  BEUR TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2687
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  BAHIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/%D9%83%D8%A7%D9%8A_%D8%A8%D9%8A_%D8%B3%D9%8A.png" group-title="BOUQUET  ARABE",|AR.ALG|  BAHIA TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  BAHIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/%D9%83%D8%A7%D9%8A_%D8%A8%D9%8A_%D8%B3%D9%8A.png" group-title="Arabic Ch.",|AR.ALG|  BAHIA TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2164
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  KBC ALGERIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/%D9%83%D8%A7%D9%8A_%D8%A8%D9%8A_%D8%B3%D9%8A.png" group-title="BOUQUET  ARABE",|AR.ALG|  KBC ALGERIA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  KBC ALGERIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/%D9%83%D8%A7%D9%8A_%D8%A8%D9%8A_%D8%B3%D9%8A.png" group-title="Arabic Ch.",|AR.ALG|  KBC ALGERIA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1741
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  CANAL ALGERIE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/46/Canal_Alg%C3%A9rie_Logo.png" group-title="BOUQUET  ARABE",|AR.ALG|  CANAL ALGERIE
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  CANAL ALGERIE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/46/Canal_Alg%C3%A9rie_Logo.png" group-title="Arabic Ch.",|AR.ALG|  CANAL ALGERIE
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1754
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ALGERIE TV CORAN" tvg-logo="http://manager.ndasat.pro/picons/148087533124346.png" group-title="BOUQUET  ARABE",|AR.ALG|  ALGERIE TV CORAN
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ALGERIE TV CORAN" tvg-logo="http://manager.ndasat.pro/picons/148087533124346.png" group-title="Arabic Ch.",|AR.ALG|  ALGERIE TV CORAN
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1757
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ALGERIA 3" tvg-logo="http://manager.ndasat.pro/picons/entv_3_al_thalitha.png" group-title="BOUQUET  ARABE",|AR.ALG|  ALGERIA 3
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ALGERIA 3" tvg-logo="http://manager.ndasat.pro/picons/entv_3_al_thalitha.png" group-title="Arabic Ch.",|AR.ALG|  ALGERIA 3
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1755
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ALGERIA 4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/46/Canal_Alg%C3%A9rie_Logo.png" group-title="BOUQUET  ARABE",|AR.ALG|  ALGERIA 4
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ALGERIA 4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/46/Canal_Alg%C3%A9rie_Logo.png" group-title="Arabic Ch.",|AR.ALG|  ALGERIA 4
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2674
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  AL HADDAF ALGERIE" tvg-logo="http://3.bp.blogspot.com/-Rf6REqt6JMo/Vjjh3qrzvNI/AAAAAAAAAqE/aEq30hX5Jds/s1600/ElHeddaf_Tv.png" group-title="BOUQUET  ARABE",|AR.ALG|  AL HADDAF ALGERIE
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  AL HADDAF ALGERIE" tvg-logo="http://3.bp.blogspot.com/-Rf6REqt6JMo/Vjjh3qrzvNI/AAAAAAAAAqE/aEq30hX5Jds/s1600/ElHeddaf_Tv.png" group-title="Arabic Ch.",|AR.ALG|  AL HADDAF ALGERIE
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2392
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ENNAHAR TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/EnnaharTV.png" group-title="BOUQUET  ARABE",|AR.ALG|  ENNAHAR TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ENNAHAR TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/EnnaharTV.png" group-title="Arabic Ch.",|AR.ALG|  ENNAHAR TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1746
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ENNAHARLAKI" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|  ENNAHARLAKI
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ENNAHARLAKI" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|  ENNAHARLAKI
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1747
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  EL HEDDAF TV" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7e/%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%81_%D8%AA%D9%8A_%D9%81%D9%8A.JPG" group-title="BOUQUET  ARABE",|AR.ALG|  EL HEDDAF TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  EL HEDDAF TV" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7e/%D8%A7%D9%84%D9%87%D8%AF%D8%A7%D9%81_%D8%AA%D9%8A_%D9%81%D9%8A.JPG" group-title="Arabic Ch.",|AR.ALG|  EL HEDDAF TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1748
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  DZAIR  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/Logo_Dzair_TV.png" group-title="BOUQUET  ARABE",|AR.ALG|  DZAIR  TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  DZAIR  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/Logo_Dzair_TV.png" group-title="Arabic Ch.",|AR.ALG|  DZAIR  TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1752
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  DZAIR NEWS" tvg-logo="https://www.alg24.net/wp-content/uploads/2017/04/Dzair.png" group-title="BOUQUET  ARABE",|AR.ALG|  DZAIR NEWS
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  DZAIR NEWS" tvg-logo="https://www.alg24.net/wp-content/uploads/2017/04/Dzair.png" group-title="Arabic Ch.",|AR.ALG|  DZAIR NEWS
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1753
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ECHOUROUK NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/ECHOUROUK-NEWS.png" group-title="BOUQUET  ARABE",|AR.ALG|  ECHOUROUK NEWS
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ECHOUROUK NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/ECHOUROUK-NEWS.png" group-title="Arabic Ch.",|AR.ALG|  ECHOUROUK NEWS
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1751
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ECHOUROUK BENNA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|  ECHOUROUK BENNA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ECHOUROUK BENNA" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|  ECHOUROUK BENNA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2675
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ECHOROUK  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Echourouk_TV_logo.svg" group-title="BOUQUET  ARABE",|AR.ALG|  ECHOROUK  TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ECHOROUK  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Echourouk_TV_logo.svg" group-title="Arabic Ch.",|AR.ALG|  ECHOROUK  TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1750
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  DZAIR 24" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/c/cc/8258754.png" group-title="BOUQUET  ARABE",|AR.ALG|  DZAIR 24
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  DZAIR 24" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/c/cc/8258754.png" group-title="Arabic Ch.",|AR.ALG|  DZAIR 24
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1743
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  NUMIDIA NEWS TV" tvg-logo="http://wikipedia.ma/wp-content/uploads/2015/06/photo-1331508081.jpg" group-title="BOUQUET  ARABE",|AR.ALG|  NUMIDIA NEWS TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  NUMIDIA NEWS TV" tvg-logo="http://wikipedia.ma/wp-content/uploads/2015/06/photo-1331508081.jpg" group-title="Arabic Ch.",|AR.ALG|  NUMIDIA NEWS TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1740
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ADJAZAIRIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eldjazairiaone1234.png" group-title="BOUQUET  ARABE",|AR.ALG|  ADJAZAIRIA 1
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ADJAZAIRIA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eldjazairiaone1234.png" group-title="Arabic Ch.",|AR.ALG|  ADJAZAIRIA 1
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1756
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ELBILAD" tvg-logo="http://www.1arablive.com/livetv/assets/images/1521763996.jpg" group-title="BOUQUET  ARABE",|AR.ALG|  ELBILAD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ELBILAD" tvg-logo="http://www.1arablive.com/livetv/assets/images/1521763996.jpg" group-title="Arabic Ch.",|AR.ALG|  ELBILAD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1749
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  MAGHARIBIA TWO" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a5/Al_Magharibia.png" group-title="BOUQUET  ARABE",|AR.ALG|  MAGHARIBIA TWO
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  MAGHARIBIA TWO" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a5/Al_Magharibia.png" group-title="Arabic Ch.",|AR.ALG|  MAGHARIBIA TWO
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2677
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  BEUR" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|  BEUR
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  BEUR" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|  BEUR
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2927
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ALANIS TV" tvg-logo="https://2.bp.blogspot.com/-R2TVFiRv6pg/V5qCXKEGxUI/AAAAAAAAEKs/226c6HV_qG85PVVy-zwOOHeYIxB6mtyjQCLcB/s1600/alanis_tv_dz.png" group-title="BOUQUET  ARABE",|AR.ALG|  ALANIS TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  ALANIS TV" tvg-logo="https://2.bp.blogspot.com/-R2TVFiRv6pg/V5qCXKEGxUI/AAAAAAAAEKs/226c6HV_qG85PVVy-zwOOHeYIxB6mtyjQCLcB/s1600/alanis_tv_dz.png" group-title="Arabic Ch.",|AR.ALG|  ALANIS TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2926
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  BERBERE  MUSIC" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|  BERBERE  MUSIC
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  BERBERE  MUSIC" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|  BERBERE  MUSIC
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2907
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  BERBERE TELEVISION" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|  BERBERE TELEVISION
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  BERBERE TELEVISION" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|  BERBERE TELEVISION
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2906
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  BERBERE JEUNESSE" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ALG|  BERBERE JEUNESSE
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  BERBERE JEUNESSE" tvg-logo="" group-title="Arabic Ch.",|AR.ALG|  BERBERE JEUNESSE
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2908
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGT| AL HAYAT 2" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGT| AL HAYAT 2
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGT| AL HAYAT 2" tvg-logo="" group-title="Arabic Ch.",|AR.EGT| AL HAYAT 2
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/7779
-#EXTINF:-1 tvg-ID="" tvg-name="----------- BOUQUET TUNIISIE -----------" tvg-logo="https://www.impactnutrition.com.tn/wp-content/uploads/2016/03/tunisie.png" group-title="BOUQUET  ARABE",----------- BOUQUET TUNIISIE -----------
+#EXTINF:-1 tvg-ID="" tvg-name="----------- TUNIISIE -----------" tvg-logo="https://www.impactnutrition.com.tn/wp-content/uploads/2016/03/tunisie.png" group-title="Arabic Ch.",----------- TUNIISIE -----------
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2461
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  NESSMA" tvg-logo="https://ween.tn/uploads/image/28294/28292/avatar/avatar.png" group-title="BOUQUET  ARABE",|AR.TUN|  NESSMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  NESSMA" tvg-logo="https://ween.tn/uploads/image/28294/28292/avatar/avatar.png" group-title="Arabic Ch.",|AR.TUN|  NESSMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/752
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  HANNIBAL TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/HannibalTV.png" group-title="BOUQUET  ARABE",|AR.TUN|  HANNIBAL TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  HANNIBAL TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/HannibalTV.png" group-title="Arabic Ch.",|AR.TUN|  HANNIBAL TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1734
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  TUNISIE NAT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/T%C3%A9l%C3%A9vision_Nationale_2.png" group-title="BOUQUET  ARABE",|AR.TUN|  TUNISIE NAT 2
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  TUNISIE NAT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/T%C3%A9l%C3%A9vision_Nationale_2.png" group-title="Arabic Ch.",|AR.TUN|  TUNISIE NAT 2
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1736
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  TN TELVZA TV" tvg-logo="http://wikipedia.ma/wp-content/uploads/2015/06/Telvzatv_logo-150x150.png" group-title="BOUQUET  ARABE",|AR.TUN|  TN TELVZA TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  TN TELVZA TV" tvg-logo="http://wikipedia.ma/wp-content/uploads/2015/06/Telvzatv_logo-150x150.png" group-title="Arabic Ch.",|AR.TUN|  TN TELVZA TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2676
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  TUNISIE  NAT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="BOUQUET  ARABE",|AR.TUN|  TUNISIE  NAT 1
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  TUNISIE  NAT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="Arabic Ch.",|AR.TUN|  TUNISIE  NAT 1
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1735
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  M TUNISIA" tvg-logo="https://www.streaminghd.tn/img/tv/mtunisia.png" group-title="BOUQUET  ARABE",|AR.TUN|  M TUNISIA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  M TUNISIA" tvg-logo="https://www.streaminghd.tn/img/tv/mtunisia.png" group-title="Arabic Ch.",|AR.TUN|  M TUNISIA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/782
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  CARTHAGE+ TV" tvg-logo="" group-title="BOUQUET  ARABE",|AR.TUN|  CARTHAGE+ TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  CARTHAGE+ TV" tvg-logo="" group-title="Arabic Ch.",|AR.TUN|  CARTHAGE+ TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1733
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  ELHIWAR ETTOUNSI" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ElhiwarEttounsiTV.png" group-title="BOUQUET  ARABE",|AR.TUN|  ELHIWAR ETTOUNSI
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  ELHIWAR ETTOUNSI" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ElhiwarEttounsiTV.png" group-title="Arabic Ch.",|AR.TUN|  ELHIWAR ETTOUNSI
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1732
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  AL JANOUBIA" tvg-logo="https://www.streaminghd.tn/img/tv/janoubia.png" group-title="BOUQUET  ARABE",|AR.TUN|  AL JANOUBIA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  AL JANOUBIA" tvg-logo="https://www.streaminghd.tn/img/tv/janoubia.png" group-title="Arabic Ch.",|AR.TUN|  AL JANOUBIA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1739
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  ATTESSIA TV" tvg-logo="https://cdn6.aptoide.com/imgs/7/a/6/7a644a98581b2e2fb415934e44dcba89_icon.png?w=240" group-title="BOUQUET  ARABE",|AR.TUN|  ATTESSIA TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  ATTESSIA TV" tvg-logo="https://cdn6.aptoide.com/imgs/7/a/6/7a644a98581b2e2fb415934e44dcba89_icon.png?w=240" group-title="Arabic Ch.",|AR.TUN|  ATTESSIA TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1828
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  ZAYTOUNA" tvg-logo="https://tunisia.mom-rsf.org/typo3temp/_processed_/8/9/csm_142_import_987bfd575f.png" group-title="BOUQUET  ARABE",|AR.TUN|  ZAYTOUNA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.TUN|  ZAYTOUNA" tvg-logo="https://tunisia.mom-rsf.org/typo3temp/_processed_/8/9/csm_142_import_987bfd575f.png" group-title="Arabic Ch.",|AR.TUN|  ZAYTOUNA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1738
-#EXTINF:-1 tvg-ID="" tvg-name="----------- BOUQUET ENFANTS ARABE -----------" tvg-logo="" group-title="BOUQUET  ARABE",----------- BOUQUET ENFANTS ARABE -----------
+#EXTINF:-1 tvg-ID="" tvg-name="----------- ENFANTSArabic Ch. -----------" tvg-logo="" group-title="Arabic Ch.",----------- ENFANTSArabic Ch. -----------
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2463
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN BARAEM HD" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN|  BEIN BARAEM HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN BARAEM HD" tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN|  BEIN BARAEM HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2660
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN JEEM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Bein_Jeem.png" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN|  BEIN JEEM HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN JEEM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Bein_Jeem.png" group-title="BEIN SPORTS AR",|AR.BEIN|  BEIN JEEM HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2662
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  MBC 3 HD" tvg-logo="https://lh3.googleusercontent.com/-q5JjGVn2ws4/WmHKtwYfZVI/AAAAAAAAASk/kAdYPmk1S00qJMJVn1O5L8wT4N1fLApHQCEwYBhgL/h120/MBC_3_logo.jpg" group-title="BOUQUET  ARABE",|AR.ENF|  MBC 3 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  MBC 3 HD" tvg-logo="https://lh3.googleusercontent.com/-q5JjGVn2ws4/WmHKtwYfZVI/AAAAAAAAASk/kAdYPmk1S00qJMJVn1O5L8wT4N1fLApHQCEwYBhgL/h120/MBC_3_logo.jpg" group-title="Arabic Ch.",|AR.ENF|  MBC 3 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1789
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  CARTOON  NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="BOUQUET  ARABE",|AR.ENF|  CARTOON  NETWORK
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  CARTOON  NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="Arabic Ch.",|AR.ENF|  CARTOON  NETWORK
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1895
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  SPACE TOON" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/Spacetoon.png" group-title="BOUQUET  ARABE",|AR.ENF|  SPACE TOON
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  SPACE TOON" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/Spacetoon.png" group-title="Arabic Ch.",|AR.ENF|  SPACE TOON
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1857
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  MAJID KIDS TV" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ENF|  MAJID KIDS TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  MAJID KIDS TV" tvg-logo="" group-title="Arabic Ch.",|AR.ENF|  MAJID KIDS TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2200
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  BARAEEM" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ENF|  BARAEEM
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  BARAEEM" tvg-logo="" group-title="Arabic Ch.",|AR.ENF|  BARAEEM
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1896
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  MICKEY CHANNEL" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ENF|  MICKEY CHANNEL
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  MICKEY CHANNEL" tvg-logo="" group-title="Arabic Ch.",|AR.ENF|  MICKEY CHANNEL
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2162
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  MAJD KIDS" tvg-logo="https://c1.staticflickr.com/3/2411/2229600000_6eb83dfd49_z.jpg?zz=1" group-title="BOUQUET  ARABE",|AR.ENF|  MAJD KIDS
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  MAJD KIDS" tvg-logo="https://c1.staticflickr.com/3/2411/2229600000_6eb83dfd49_z.jpg?zz=1" group-title="Arabic Ch.",|AR.ENF|  MAJD KIDS
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2441
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  TOYOR AL JANAH" tvg-logo="http://maxtvv.abdou123.com:9300/live/localhd/211VGH699/598.ts" group-title="BOUQUET  ARABE",|AR.ENF|  TOYOR AL JANAH
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  TOYOR AL JANAH" tvg-logo="http://maxtvv.abdou123.com:9300/live/localhd/211VGH699/598.ts" group-title="Arabic Ch.",|AR.ENF|  TOYOR AL JANAH
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1364
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  SEMSEM" tvg-logo="https://www.muhtwa.com/wp-content/uploads/10689598_713526012047682_5722640193331108131_n.png" group-title="BOUQUET  ARABE",|AR.ENF|  SEMSEM
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  SEMSEM" tvg-logo="https://www.muhtwa.com/wp-content/uploads/10689598_713526012047682_5722640193331108131_n.png" group-title="Arabic Ch.",|AR.ENF|  SEMSEM
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2158
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  SPACE TOON." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/Spacetoon.png" group-title="BOUQUET  ARABE",|AR.ENF|  SPACE TOON.
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  SPACE TOON." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/Spacetoon.png" group-title="Arabic Ch.",|AR.ENF|  SPACE TOON.
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1766
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  MAJID KIDS  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Majid-logo.gif" group-title="BOUQUET  ARABE",|AR.ENF|  MAJID KIDS  TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  MAJID KIDS  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Majid-logo.gif" group-title="Arabic Ch.",|AR.ENF|  MAJID KIDS  TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2163
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  KARAMESH" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ENF|  KARAMESH
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ENF|  KARAMESH" tvg-logo="" group-title="Arabic Ch.",|AR.ENF|  KARAMESH
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2671
-#EXTINF:-1 tvg-ID="" tvg-name="----------- BOUQUET CUISINE ARABE -----------" tvg-logo="" group-title="BOUQUET  ARABE",----------- BOUQUET CUISINE ARABE -----------
+#EXTINF:-1 tvg-ID="" tvg-name="----------- CUISINEArabic Ch. -----------" tvg-logo="" group-title="Arabic Ch.",----------- CUISINEArabic Ch. -----------
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2462
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN FATAFEAT HD" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN|  BEIN FATAFEAT HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN FATAFEAT HD" tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN|  BEIN FATAFEAT HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2664
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN GOURMET HD" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN|  BEIN GOURMET HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN GOURMET HD" tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN|  BEIN GOURMET HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/3029
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  PANORAMA FOOD" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  PANORAMA FOOD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  PANORAMA FOOD" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  PANORAMA FOOD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1840
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CBC SOFRA" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61ijw5fFbBL.png" group-title="BOUQUET  ARABE",|AR.EGY|  CBC SOFRA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CBC SOFRA" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61ijw5fFbBL.png" group-title="Arabic Ch.",|AR.EGY|  CBC SOFRA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1795
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  SAMIRA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Samira_TV_logo.svg/1076px-Samira_TV_logo.svg.png" group-title="BOUQUET  ARABE",|AR.ALG|  SAMIRA TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ALG|  SAMIRA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Samira_TV_logo.svg/1076px-Samira_TV_logo.svg.png" group-title="Arabic Ch.",|AR.ALG|  SAMIRA TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/751
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  FATAFEAT" tvg-logo="" group-title="BOUQUET  ARABE",|AR.UAE|  FATAFEAT
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  FATAFEAT" tvg-logo="" group-title="Arabic Ch.",|AR.UAE|  FATAFEAT
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1767
-#EXTINF:-1 tvg-ID="" tvg-name="----------- CORAN -----------" tvg-logo="" group-title="BOUQUET  ARABE",----------- CORAN -----------
+#EXTINF:-1 tvg-ID="" tvg-name="----------- CORAN -----------" tvg-logo="" group-title="Arabic Ch.",----------- CORAN -----------
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2464
-#EXTINF:-1 tvg-ID="" tvg-name="|AR|  MECCA TV" tvg-logo="http://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="BOUQUET  ARABE",|AR|  MECCA TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR|  MECCA TV" tvg-logo="http://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="Arabic Ch.",|AR|  MECCA TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/3282
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM|  IQRAA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Iqraa_logo.gif" group-title="BOUQUET  ARABE",|AR.ISLAM|  IQRAA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM|  IQRAA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Iqraa_logo.gif" group-title="Arabic Ch.",|AR.ISLAM|  IQRAA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1792
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM|  SAUDI QURAN" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ISLAM|  SAUDI QURAN
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM|  SAUDI QURAN" tvg-logo="" group-title="Arabic Ch.",|AR.ISLAM|  SAUDI QURAN
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1781
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM|  ZAYTOUNA HEDAYA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ISLAM|  ZAYTOUNA HEDAYA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM|  ZAYTOUNA HEDAYA" tvg-logo="" group-title="Arabic Ch.",|AR.ISLAM|  ZAYTOUNA HEDAYA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1737
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM|  SAUDIA  SUNNA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ISLAM|  SAUDIA  SUNNA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM|  SAUDIA  SUNNA" tvg-logo="" group-title="Arabic Ch.",|AR.ISLAM|  SAUDIA  SUNNA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2130
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM|  MAJD QURANN" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ISLAM|  MAJD QURANN
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM|  MAJD QURANN" tvg-logo="" group-title="Arabic Ch.",|AR.ISLAM|  MAJD QURANN
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1762
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM|  MAJD QURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/9f/Almajd_Quran.jpg" group-title="BOUQUET  ARABE",|AR.ISLAM|  MAJD QURAN
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM|  MAJD QURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/9f/Almajd_Quran.jpg" group-title="Arabic Ch.",|AR.ISLAM|  MAJD QURAN
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1790
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM|  AHEL AL QURAN" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ISLAM|  AHEL AL QURAN
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM|  AHEL AL QURAN" tvg-logo="" group-title="Arabic Ch.",|AR.ISLAM|  AHEL AL QURAN
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1768
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM| AL RESALAH" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ISLAM| AL RESALAH
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM| AL RESALAH" tvg-logo="" group-title="Arabic Ch.",|AR.ISLAM| AL RESALAH
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2938
-#EXTINF:-1 tvg-ID="" tvg-name="----------- OTHERS -----------" tvg-logo="" group-title="BOUQUET  ARABE",----------- OTHERS -----------
+#EXTINF:-1 tvg-ID="" tvg-name="----------- OTHERS -----------" tvg-logo="" group-title="Arabic Ch.",----------- OTHERS -----------
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2465
-#EXTINF:-1 tvg-ID="" tvg-name="|AR| TRT ARABIC" tvg-logo="" group-title="BOUQUET  ARABE",|AR| TRT ARABIC
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| TRT ARABIC" tvg-logo="" group-title="Arabic Ch.",|AR| TRT ARABIC
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/265011126
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM| AL QUDS" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ISLAM| AL QUDS
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM| AL QUDS" tvg-logo="" group-title="Arabic Ch.",|AR.ISLAM| AL QUDS
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/8528
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE| B4U AFLAM" tvg-logo="" group-title="BOUQUET  ARABE",|AR.UAE| B4U AFLAM
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE| B4U AFLAM" tvg-logo="" group-title="Arabic Ch.",|AR.UAE| B4U AFLAM
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/5662
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE| B4U PLUS" tvg-logo="" group-title="BOUQUET  ARABE",|AR.UAE| B4U PLUS
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE| B4U PLUS" tvg-logo="" group-title="Arabic Ch.",|AR.UAE| B4U PLUS
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/5663
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA| FOX MOVIES FAMILY" tvg-logo="" group-title="BOUQUET  ARABE",|AR.KSA| FOX MOVIES FAMILY
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA| FOX MOVIES FAMILY" tvg-logo="" group-title="Arabic Ch.",|AR.KSA| FOX MOVIES FAMILY
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/3350
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA| FOX MOVIES ACTION" tvg-logo="" group-title="BOUQUET  ARABE",|AR.KSA| FOX MOVIES ACTION
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA| FOX MOVIES ACTION" tvg-logo="" group-title="Arabic Ch.",|AR.KSA| FOX MOVIES ACTION
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/3349
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA| FOX MOVIES HD" tvg-logo="" group-title="BOUQUET  ARABE",|AR.KSA| FOX MOVIES HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA| FOX MOVIES HD" tvg-logo="" group-title="Arabic Ch.",|AR.KSA| FOX MOVIES HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/3351
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN SERIES 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/The_logo_of_bein_series_1_tv_channel.png" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN|  BEIN SERIES 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN SERIES 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/The_logo_of_bein_series_1_tv_channel.png" group-title="BEIN SPORTS AR",|AR.BEIN|  BEIN SERIES 1 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2661
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN SERIES 2 HD" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| BEIN SERIES 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN SERIES 2 HD" tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN| BEIN SERIES 2 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/8469
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN MOVIES 1 HD" tvg-logo="https://4.bp.blogspot.com/-lLLGwGe0SU0/VvfF-Wf-PgI/AAAAAAAAD1w/4wuF8M2X9YsckWaAfPSXdIPTDVgcPaSnQ/s1600/be_in_movies_1_hd.png" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN|  BEIN MOVIES 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN MOVIES 1 HD" tvg-logo="https://4.bp.blogspot.com/-lLLGwGe0SU0/VvfF-Wf-PgI/AAAAAAAAD1w/4wuF8M2X9YsckWaAfPSXdIPTDVgcPaSnQ/s1600/be_in_movies_1_hd.png" group-title="BEIN SPORTS AR",|AR.BEIN|  BEIN MOVIES 1 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1812
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN MOVIES 2 HD" tvg-logo="http://hahaiptv.net/logo/bein%20sport%20sd/movie2.png" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN|  BEIN MOVIES 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN MOVIES 2 HD" tvg-logo="http://hahaiptv.net/logo/bein%20sport%20sd/movie2.png" group-title="BEIN SPORTS AR",|AR.BEIN|  BEIN MOVIES 2 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1813
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN MOVIES 3 HD" tvg-logo="https://4.bp.blogspot.com/-jgzbMYWJFuY/V7HainSDpzI/AAAAAAAAALs/nw07IljZiJc7wFXdbYzHe4VlNIDnInPqgCEw/s1600/dffff.png" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN|  BEIN MOVIES 3 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN MOVIES 3 HD" tvg-logo="https://4.bp.blogspot.com/-jgzbMYWJFuY/V7HainSDpzI/AAAAAAAAALs/nw07IljZiJc7wFXdbYzHe4VlNIDnInPqgCEw/s1600/dffff.png" group-title="BEIN SPORTS AR",|AR.BEIN|  BEIN MOVIES 3 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1814
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN MOVIES 4 HD" tvg-logo="https://frequencyme.com/wp-content/uploads/-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A5%D9%86-%D9%85%D9%88%D9%81%D9%8A-4-bein-movies-hd-e1508615691131.gif" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN|  BEIN MOVIES 4 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN|  BEIN MOVIES 4 HD" tvg-logo="https://frequencyme.com/wp-content/uploads/-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A5%D9%86-%D9%85%D9%88%D9%81%D9%8A-4-bein-movies-hd-e1508615691131.gif" group-title="BEIN SPORTS AR",|AR.BEIN|  BEIN MOVIES 4 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2228
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN AMC" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| BEIN AMC
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN AMC" tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN| BEIN AMC
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/8464
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN DTX" tvg-logo="https://cdn.imgbin.com/15/22/25/imgbin-dtx-television-channel-discovery-channel-discovery-turbo-discovery-channel-logo-rAqJ1n9UQfkCXRTJWLwwYZhU8.jpg" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| BEIN DTX
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN DTX" tvg-logo="https://cdn.imgbin.com/15/22/25/imgbin-dtx-television-channel-discovery-channel-discovery-turbo-discovery-channel-logo-rAqJ1n9UQfkCXRTJWLwwYZhU8.jpg" group-title="BEIN SPORTS AR",|AR.BEIN| BEIN DTX
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/8459
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN JUNIOR" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| BEIN JUNIOR
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN JUNIOR" tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN| BEIN JUNIOR
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/8467
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN BOOMRANG" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| BEIN BOOMRANG
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN BOOMRANG" tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN| BEIN BOOMRANG
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/8462
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN OUTDOOR" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| BEIN OUTDOOR
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN OUTDOOR" tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN| BEIN OUTDOOR
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/8460
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| DREAM WORKS" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| DREAM WORKS
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| DREAM WORKS" tvg-logo="" group-title="BEIN SPORTS AR",|AR.BEIN| DREAM WORKS
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/8463
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="BOUQUET  ARABE",|AR.MBC| MBC 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Arabic Ch.",|AR.MBC| MBC 1 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1788
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642" group-title="BOUQUET  ARABE",|AR.MBC| MBC 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642" group-title="Arabic Ch.",|AR.MBC| MBC 2 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1333
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="BOUQUET  ARABE",|AR.MBC| MBC 4 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="Arabic Ch.",|AR.MBC| MBC 4 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/755
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC 5 HD" tvg-logo="" group-title="BOUQUET  ARABE",|AR.MBC| MBC 5 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC 5 HD" tvg-logo="" group-title="Arabic Ch.",|AR.MBC| MBC 5 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/265011216
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC ACTION" tvg-logo="http://frequencyme.com/wp-content/uploads/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A5%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D8%A3%D9%83%D8%B4%D9%86-%D8%B9%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%AD-mbc-action-hd.png" group-title="BOUQUET  ARABE",|AR.MBC| MBC ACTION
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC ACTION" tvg-logo="http://frequencyme.com/wp-content/uploads/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A5%D9%85-%D8%A8%D9%8A-%D8%B3%D9%8A-%D8%A3%D9%83%D8%B4%D9%86-%D8%B9%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%AD-mbc-action-hd.png" group-title="Arabic Ch.",|AR.MBC| MBC ACTION
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/756
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="BOUQUET  ARABE",|AR.MBC| MBC MAX HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="Arabic Ch.",|AR.MBC| MBC MAX HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1776
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC MASR 2" tvg-logo="https://pbs.twimg.com/profile_images/531362651599687680/1Y4VkRed_400x400.jpeg" group-title="BOUQUET  ARABE",|AR.MBC| MBC MASR 2
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC MASR 2" tvg-logo="https://pbs.twimg.com/profile_images/531362651599687680/1Y4VkRed_400x400.jpeg" group-title="Arabic Ch.",|AR.MBC| MBC MASR 2
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1777
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC MASR" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1239_1.png" group-title="BOUQUET  ARABE",|AR.MBC| MBC MASR
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC MASR" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1239_1.png" group-title="Arabic Ch.",|AR.MBC| MBC MASR
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1778
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC DRAMA + HD" tvg-logo="http://gobx.com/wp-content/uploads/2018/05/mbc_plus_drama.png" group-title="BOUQUET  ARABE",|AR.MBC| MBC DRAMA + HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC DRAMA + HD" tvg-logo="http://gobx.com/wp-content/uploads/2018/05/mbc_plus_drama.png" group-title="Arabic Ch.",|AR.MBC| MBC DRAMA + HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2983
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC DRAMA HD" tvg-logo="http://www.3rbmovie.com/wp-content/uploads/2017/10/MBC-DRAMA-1.png" group-title="BOUQUET  ARABE",|AR.MBC| MBC DRAMA HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC DRAMA HD" tvg-logo="http://www.3rbmovie.com/wp-content/uploads/2017/10/MBC-DRAMA-1.png" group-title="Arabic Ch.",|AR.MBC| MBC DRAMA HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1787
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC DRAMA +" tvg-logo="" group-title="BOUQUET  ARABE",|AR.MBC| MBC DRAMA +
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC DRAMA +" tvg-logo="" group-title="Arabic Ch.",|AR.MBC| MBC DRAMA +
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1786
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC BOLLYWOOD" tvg-logo="https://seedroid.com/img/post/covers/1024/com.mbc.bollywood.live.lio.jpg" group-title="BOUQUET  ARABE",|AR.MBC| MBC BOLLYWOOD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MBC BOLLYWOOD" tvg-logo="https://seedroid.com/img/post/covers/1024/com.mbc.bollywood.live.lio.jpg" group-title="Arabic Ch.",|AR.MBC| MBC BOLLYWOOD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/758
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MY MBC IRAQ" tvg-logo="" group-title="BOUQUET  ARABE",|AR.MBC| MY MBC IRAQ
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MBC| MY MBC IRAQ" tvg-logo="" group-title="Arabic Ch.",|AR.MBC| MY MBC IRAQ
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/265012428
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  PANORAMA COMEDY" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  PANORAMA COMEDY
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  PANORAMA COMEDY" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  PANORAMA COMEDY
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2134
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  PANORAMA FILM" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  PANORAMA FILM
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  PANORAMA FILM" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  PANORAMA FILM
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1839
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  PANORAMA DRAMA 2" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  PANORAMA DRAMA 2
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  PANORAMA DRAMA 2" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  PANORAMA DRAMA 2
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1837
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  PANORAMA DRAMA 1" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  PANORAMA DRAMA 1
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  PANORAMA DRAMA 1" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  PANORAMA DRAMA 1
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1838
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  PANORAMA DRAMA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  PANORAMA DRAMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  PANORAMA DRAMA" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  PANORAMA DRAMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2135
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY| ON TIME SPORT 1" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY| ON TIME SPORT 1
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY| ON TIME SPORT 1" tvg-logo="" group-title="Arabic Ch.",|AR.EGY| ON TIME SPORT 1
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1759
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  TIME COMEDY" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  TIME COMEDY
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  TIME COMEDY" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  TIME COMEDY
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1764
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY| ON TIME SPORT 2" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY| ON TIME SPORT 2
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY| ON TIME SPORT 2" tvg-logo="" group-title="Arabic Ch.",|AR.EGY| ON TIME SPORT 2
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1765
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  NILE LIFE" tvg-logo="https://www.muhtwa.com/wp-content/uploads/%D9%86%D8%A7%D9%8A%D9%84-%D9%84%D8%A7%D9%8A%D9%81-300x200.png" group-title="BOUQUET  ARABE",|AR.EGY|  NILE LIFE
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  NILE LIFE" tvg-logo="https://www.muhtwa.com/wp-content/uploads/%D9%86%D8%A7%D9%8A%D9%84-%D9%84%D8%A7%D9%8A%D9%81-300x200.png" group-title="Arabic Ch.",|AR.EGY|  NILE LIFE
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2159
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CBC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/b1/CBC2.png" group-title="BOUQUET  ARABE",|AR.EGY|  CBC 2
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CBC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/b1/CBC2.png" group-title="Arabic Ch.",|AR.EGY|  CBC 2
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2131
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  AL HAYAT 1" tvg-logo="http://img.over-blog-kiwi.com/1/94/51/59/20160209/ob_166fc8_elhayat.png" group-title="BOUQUET  ARABE",|AR.EGY|  AL HAYAT 1
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  AL HAYAT 1" tvg-logo="http://img.over-blog-kiwi.com/1/94/51/59/20160209/ob_166fc8_elhayat.png" group-title="Arabic Ch.",|AR.EGY|  AL HAYAT 1
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2123
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CAIRO DRAMA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  CAIRO DRAMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CAIRO DRAMA" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  CAIRO DRAMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1832
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CAIRO AFLAM" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  CAIRO AFLAM
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CAIRO AFLAM" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  CAIRO AFLAM
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1831
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CAIRO CINEMA" tvg-logo="https://www.wataan.com/uploads/24112016-100836PM.jpg" group-title="BOUQUET  ARABE",|AR.EGY|  CAIRO CINEMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CAIRO CINEMA" tvg-logo="https://www.wataan.com/uploads/24112016-100836PM.jpg" group-title="Arabic Ch.",|AR.EGY|  CAIRO CINEMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1833
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  NILE NEWS" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/niletv.jpg" group-title="BOUQUET  ARABE",|AR.EGY|  NILE NEWS
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  NILE NEWS" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/niletv.jpg" group-title="Arabic Ch.",|AR.EGY|  NILE NEWS
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1820
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  NILE FAMILY" tvg-logo="http://tv-online.im/wp-content/uploads/2013/05/Nile-family-tv-HD.jpg" group-title="BOUQUET  ARABE",|AR.EGY|  NILE FAMILY
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  NILE FAMILY" tvg-logo="http://tv-online.im/wp-content/uploads/2013/05/Nile-family-tv-HD.jpg" group-title="Arabic Ch.",|AR.EGY|  NILE FAMILY
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1819
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  NILE DRAMA" tvg-logo="http://photosarab.com/wp-content/uploads/Nile-Drama-bath-mubasher.png" group-title="BOUQUET  ARABE",|AR.EGY|  NILE DRAMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  NILE DRAMA" tvg-logo="http://photosarab.com/wp-content/uploads/Nile-Drama-bath-mubasher.png" group-title="Arabic Ch.",|AR.EGY|  NILE DRAMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1822
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  NILE CINEMA" tvg-logo="https://sjevent.ma/wp-content/uploads/2016/06/nile-cinema.png" group-title="BOUQUET  ARABE",|AR.EGY|  NILE CINEMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  NILE CINEMA" tvg-logo="https://sjevent.ma/wp-content/uploads/2016/06/nile-cinema.png" group-title="Arabic Ch.",|AR.EGY|  NILE CINEMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1823
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  NILE COMEDY" tvg-logo="https://i.pinimg.com/originals/4f/04/4b/4f044b3b221625eb5208436857997c87.png" group-title="BOUQUET  ARABE",|AR.EGY|  NILE COMEDY
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  NILE COMEDY" tvg-logo="https://i.pinimg.com/originals/4f/04/4b/4f044b3b221625eb5208436857997c87.png" group-title="Arabic Ch.",|AR.EGY|  NILE COMEDY
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1818
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  TOK TOK CIMA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  TOK TOK CIMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  TOK TOK CIMA" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  TOK TOK CIMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1758
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CIMA TV" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  CIMA TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CIMA TV" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  CIMA TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1794
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CBC EXTRA" tvg-logo="https://www.e3lam.org/wp-content/uploads/2015/06/cbc-extra.png" group-title="BOUQUET  ARABE",|AR.EGY|  CBC EXTRA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CBC EXTRA" tvg-logo="https://www.e3lam.org/wp-content/uploads/2015/06/cbc-extra.png" group-title="Arabic Ch.",|AR.EGY|  CBC EXTRA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1796
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CBC DRAMA" tvg-logo="https://www.e3lam.org/wp-content/uploads/2019/02/58b9df796d089.jpg.png" group-title="BOUQUET  ARABE",|AR.EGY|  CBC DRAMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CBC DRAMA" tvg-logo="https://www.e3lam.org/wp-content/uploads/2019/02/58b9df796d089.jpg.png" group-title="Arabic Ch.",|AR.EGY|  CBC DRAMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1797
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CBC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/Cbc-logo.png/revision/latest?cb=20110304223128" group-title="BOUQUET  ARABE",|AR.EGY|  CBC
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CBC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/Cbc-logo.png/revision/latest?cb=20110304223128" group-title="Arabic Ch.",|AR.EGY|  CBC
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1798
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  AL NAHAR TV" tvg-logo="https://www.wataan.com/uploads/4122016-060113AM.png" group-title="BOUQUET  ARABE",|AR.EGY|  AL NAHAR TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  AL NAHAR TV" tvg-logo="https://www.wataan.com/uploads/4122016-060113AM.png" group-title="Arabic Ch.",|AR.EGY|  AL NAHAR TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1801
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  AL NAHAR DRAMA" tvg-logo="http://www.ethnicchannels.com/images/channeldetail/alnahar-drama/al-nahar-drama-logo.png" group-title="BOUQUET  ARABE",|AR.EGY|  AL NAHAR DRAMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  AL NAHAR DRAMA" tvg-logo="http://www.ethnicchannels.com/images/channeldetail/alnahar-drama/al-nahar-drama-logo.png" group-title="Arabic Ch.",|AR.EGY|  AL NAHAR DRAMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1802
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  AL NASS" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  AL NASS
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  AL NASS" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  AL NASS
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1232
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  AL AHLY TV" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  AL AHLY TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  AL AHLY TV" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  AL AHLY TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2166
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  AL BAIT BAITAK CINEMA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  AL BAIT BAITAK CINEMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  AL BAIT BAITAK CINEMA" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  AL BAIT BAITAK CINEMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2167
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  STAR CINEMA 1" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  STAR CINEMA 1
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  STAR CINEMA 1" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  STAR CINEMA 1
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2125
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  SAMA DUBAI" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  SAMA DUBAI
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  SAMA DUBAI" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  SAMA DUBAI
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2160
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CINEMA PRO" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  CINEMA PRO
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  CINEMA PRO" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  CINEMA PRO
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1830
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  DREAM 1" tvg-logo="http://2.bp.blogspot.com/-W0bgLjAoheE/UxYPhq9gWAI/AAAAAAAAALw/Cx-NE4PkNLg/s200/1179.png" group-title="BOUQUET  ARABE",|AR.EGY|  DREAM 1
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  DREAM 1" tvg-logo="http://2.bp.blogspot.com/-W0bgLjAoheE/UxYPhq9gWAI/AAAAAAAAALw/Cx-NE4PkNLg/s200/1179.png" group-title="Arabic Ch.",|AR.EGY|  DREAM 1
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2694
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  DREAM 2" tvg-logo="http://3.bp.blogspot.com/-64RAGtDb-4o/UxYQbjCTeFI/AAAAAAAAAL4/HNRsk7fRQLk/s1600/%D8%AF%D8%B1%D9%8A%D9%85-2.png" group-title="BOUQUET  ARABE",|AR.EGY|  DREAM 2
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  DREAM 2" tvg-logo="http://3.bp.blogspot.com/-64RAGtDb-4o/UxYQbjCTeFI/AAAAAAAAAL4/HNRsk7fRQLk/s1600/%D8%AF%D8%B1%D9%8A%D9%85-2.png" group-title="Arabic Ch.",|AR.EGY|  DREAM 2
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2693
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  ON SPORT" tvg-logo="https://2.bp.blogspot.com/-MVfAE4aEq74/WcrJ8n_ZS4I/AAAAAAAACjE/SftmZKfGUfI1uqNSzkWEw4bV6m6BfBiQgCLcBGAs/s1600/11%2Bcopy%2Bcopy%2Bcopy.png" group-title="BOUQUET  ARABE",|AR.EGY|  ON SPORT
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  ON SPORT" tvg-logo="https://2.bp.blogspot.com/-MVfAE4aEq74/WcrJ8n_ZS4I/AAAAAAAACjE/SftmZKfGUfI1uqNSzkWEw4bV6m6BfBiQgCLcBGAs/s1600/11%2Bcopy%2Bcopy%2Bcopy.png" group-title="Arabic Ch.",|AR.EGY|  ON SPORT
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2695
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  STAR CINEMA2" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  STAR CINEMA2
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  STAR CINEMA2" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  STAR CINEMA2
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2692
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ART AFLAM 1" tvg-logo="http://www.ewsat.com/img/ART_AFLAM_1.png" group-title="BOUQUET  ARABE",|AR.KSA|  ART AFLAM 1
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ART AFLAM 1" tvg-logo="http://www.ewsat.com/img/ART_AFLAM_1.png" group-title="Arabic Ch.",|AR.KSA|  ART AFLAM 1
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1327
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ART AFLAM 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849" group-title="BOUQUET  ARABE",|AR.KSA|  ART AFLAM 2
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ART AFLAM 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849" group-title="Arabic Ch.",|AR.KSA|  ART AFLAM 2
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1799
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ART AFLAM  2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/ART_MOVIES_2.png/revision/latest?cb=20150308150753" group-title="BOUQUET  ARABE",|AR.KSA|  ART AFLAM  2
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ART AFLAM  2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/ART_MOVIES_2.png/revision/latest?cb=20150308150753" group-title="Arabic Ch.",|AR.KSA|  ART AFLAM  2
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/763
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ART CINEMA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/ART_MOVIES_2.png/revision/latest?cb=20150308150753" group-title="BOUQUET  ARABE",|AR.KSA|  ART CINEMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ART CINEMA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/ART_MOVIES_2.png/revision/latest?cb=20150308150753" group-title="Arabic Ch.",|AR.KSA|  ART CINEMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1800
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ART HEKAYAT 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/ART_HEKAYAT_2.png/revision/latest?cb=20150308150904" group-title="BOUQUET  ARABE",|AR.KSA|  ART HEKAYAT 2
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ART HEKAYAT 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/ART_HEKAYAT_2.png/revision/latest?cb=20150308150904" group-title="Arabic Ch.",|AR.KSA|  ART HEKAYAT 2
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1780
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ART HEKAYAT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/ART_%D8%AD%D9%83%D8%A7%D9%8A%D8%A7%D8%AA_1.png" group-title="BOUQUET  ARABE",|AR.KSA|  ART HEKAYAT 1
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ART HEKAYAT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/ART_%D8%AD%D9%83%D8%A7%D9%8A%D8%A7%D8%AA_1.png" group-title="Arabic Ch.",|AR.KSA|  ART HEKAYAT 1
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1779
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ART HIKAYAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/ART_%D8%AD%D9%83%D8%A7%D9%8A%D8%A7%D8%AA_1.png" group-title="BOUQUET  ARABE",|AR.KSA|  ART HIKAYAT HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ART HIKAYAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/ART_%D8%AD%D9%83%D8%A7%D9%8A%D8%A7%D8%AA_1.png" group-title="Arabic Ch.",|AR.KSA|  ART HIKAYAT HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/760
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA MUSIC" tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Clip.png" group-title="BOUQUET  ARABE",|AR.KSA|  ROTANA MUSIC
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA MUSIC" tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Clip.png" group-title="Arabic Ch.",|AR.KSA|  ROTANA MUSIC
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2161
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA MUSIC" tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="BOUQUET  ARABE",|AR.KSA|  ROTANA MUSIC
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA MUSIC" tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Arabic Ch.",|AR.KSA|  ROTANA MUSIC
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1772
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA CLIP" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_534.png" group-title="BOUQUET  ARABE",|AR.KSA|  ROTANA CLIP
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA CLIP" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_534.png" group-title="Arabic Ch.",|AR.KSA|  ROTANA CLIP
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1773
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA CLASSIC" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_535.png" group-title="BOUQUET  ARABE",|AR.KSA|  ROTANA CLASSIC
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA CLASSIC" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_535.png" group-title="Arabic Ch.",|AR.KSA|  ROTANA CLASSIC
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1774
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA  AFLAM" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-logo-880x660.png" group-title="BOUQUET  ARABE",|AR.KSA|  ROTANA  AFLAM
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA  AFLAM" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-logo-880x660.png" group-title="Arabic Ch.",|AR.KSA|  ROTANA  AFLAM
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1783
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA MASRIYA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.KSA|  ROTANA MASRIYA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA MASRIYA" tvg-logo="" group-title="Arabic Ch.",|AR.KSA|  ROTANA MASRIYA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1339
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA KHALIJIA" tvg-logo="http://www.shoofeetv.com/images/2013/09/20130907140812_channelsbig.png" group-title="BOUQUET  ARABE",|AR.KSA|  ROTANA KHALIJIA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA KHALIJIA" tvg-logo="http://www.shoofeetv.com/images/2013/09/20130907140812_channelsbig.png" group-title="Arabic Ch.",|AR.KSA|  ROTANA KHALIJIA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1340
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA CINEMA" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1148_1.png" group-title="BOUQUET  ARABE",|AR.KSA|  ROTANA CINEMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA CINEMA" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1148_1.png" group-title="Arabic Ch.",|AR.KSA|  ROTANA CINEMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1342
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA DRAMA" tvg-logo="https://rotana.net/assets/uploads/2016/10/Untitled-1-1.png" group-title="BOUQUET  ARABE",|AR.KSA|  ROTANA DRAMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  ROTANA DRAMA" tvg-logo="https://rotana.net/assets/uploads/2016/10/Untitled-1-1.png" group-title="Arabic Ch.",|AR.KSA|  ROTANA DRAMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/5370
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  MAZZIKA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.EGY|  MAZZIKA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.EGY|  MAZZIKA" tvg-logo="" group-title="Arabic Ch.",|AR.EGY|  MAZZIKA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/3319
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  AL MAJD" tvg-logo="http://www.endirect24.com/upload/team/Libya/Al-Majd-Tripoli.png" group-title="BOUQUET  ARABE",|AR.KSA|  AL MAJD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  AL MAJD" tvg-logo="http://www.endirect24.com/upload/team/Libya/Al-Majd-Tripoli.png" group-title="Arabic Ch.",|AR.KSA|  AL MAJD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2668
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ABU DHABI HD" tvg-logo="http://pluspng.com/img-png/abu-dhabi-logo-png-abu-dhabi-logo-512.png" group-title="BOUQUET  ARABE",|AR.UAE|  ABU DHABI HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ABU DHABI HD" tvg-logo="http://pluspng.com/img-png/abu-dhabi-logo-png-abu-dhabi-logo-512.png" group-title="Arabic Ch.",|AR.UAE|  ABU DHABI HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1867
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  DUBAI ONE" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" group-title="BOUQUET  ARABE",|AR.UAE|  DUBAI ONE
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  DUBAI ONE" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" group-title="Arabic Ch.",|AR.UAE|  DUBAI ONE
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1859
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  DUBAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Dubai_TV_Logo.svg/1280px-Dubai_TV_Logo.svg.png" group-title="BOUQUET  ARABE",|AR.UAE|  DUBAI TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  DUBAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Dubai_TV_Logo.svg/1280px-Dubai_TV_Logo.svg.png" group-title="Arabic Ch.",|AR.UAE|  DUBAI TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2367
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ABU DUBAI DRAMA" tvg-logo="http://www.addrama.ae/public/img/branding/logo.png" group-title="BOUQUET  ARABE",|AR.UAE|  ABU DUBAI DRAMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ABU DUBAI DRAMA" tvg-logo="http://www.addrama.ae/public/img/branding/logo.png" group-title="Arabic Ch.",|AR.UAE|  ABU DUBAI DRAMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1866
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ABUDHABI NATIONAL GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Nat_geo_channel_abu_dhabi.png" group-title="BOUQUET  ARABE",|AR.UAE|  ABUDHABI NATIONAL GEO
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ABUDHABI NATIONAL GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Nat_geo_channel_abu_dhabi.png" group-title="Arabic Ch.",|AR.UAE|  ABUDHABI NATIONAL GEO
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1892
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  SAMA DUBAI" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/6/6f/Logo-sama.png" group-title="BOUQUET  ARABE",|AR.UAE|  SAMA DUBAI
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  SAMA DUBAI" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/6/6f/Logo-sama.png" group-title="Arabic Ch.",|AR.UAE|  SAMA DUBAI
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1863
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  DUBAI ZAMAN" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3229653_logo_dubai_zaman.png" group-title="BOUQUET  ARABE",|AR.UAE|  DUBAI ZAMAN
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  DUBAI ZAMAN" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3229653_logo_dubai_zaman.png" group-title="Arabic Ch.",|AR.UAE|  DUBAI ZAMAN
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1861
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  NOOR DUBAI" tvg-logo="https://arab.org/wp-content/uploads/2018/02/noor-dubai.png" group-title="BOUQUET  ARABE",|AR.UAE|  NOOR DUBAI
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  NOOR DUBAI" tvg-logo="https://arab.org/wp-content/uploads/2018/02/noor-dubai.png" group-title="Arabic Ch.",|AR.UAE|  NOOR DUBAI
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2155
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ZEE ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png" group-title="BOUQUET  ARABE",|AR.UAE|  ZEE ALWAN
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ZEE ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png" group-title="Arabic Ch.",|AR.UAE|  ZEE ALWAN
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1769
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ZEE AFLAM" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ZeeAflam.png" group-title="BOUQUET  ARABE",|AR.UAE|  ZEE AFLAM
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.UAE|  ZEE AFLAM" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ZeeAflam.png" group-title="Arabic Ch.",|AR.UAE|  ZEE AFLAM
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1770
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.NEWS|  SKY NEWS ARABIA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/Sky_uk_news_arabia_hd.png/revision/latest?cb=20140329133721" group-title="BOUQUET  ARABE",|AR.NEWS|  SKY NEWS ARABIA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.NEWS|  SKY NEWS ARABIA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/Sky_uk_news_arabia_hd.png/revision/latest?cb=20140329133721" group-title="Arabic Ch.",|AR.NEWS|  SKY NEWS ARABIA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2358
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.NEWS|  FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/FRANCE24.svg/1146px-FRANCE24.svg.png" group-title="BOUQUET  ARABE",|AR.NEWS|  FRANCE 24
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.NEWS|  FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/FRANCE24.svg/1146px-FRANCE24.svg.png" group-title="Arabic Ch.",|AR.NEWS|  FRANCE 24
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1893
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.NEWS|  BBC ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logo_BBC_Arabic.png/800px-Logo_BBC_Arabic.png" group-title="BOUQUET  ARABE",|AR.NEWS|  BBC ARABIC
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.NEWS|  BBC ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logo_BBC_Arabic.png/800px-Logo_BBC_Arabic.png" group-title="Arabic Ch.",|AR.NEWS|  BBC ARABIC
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1894
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.NEWS|  AL ARABIYA NEWS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/20/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_2015.png" group-title="BOUQUET  ARABE",|AR.NEWS|  AL ARABIYA NEWS TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.NEWS|  AL ARABIYA NEWS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/20/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_2015.png" group-title="Arabic Ch.",|AR.NEWS|  AL ARABIYA NEWS TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1328
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.QAT|  AL JAZEERA DOC" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="BOUQUET  ARABE",|AR.QAT|  AL JAZEERA DOC
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.QAT|  AL JAZEERA DOC" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="Arabic Ch.",|AR.QAT|  AL JAZEERA DOC
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/745
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.QAT|  AL JAZEERA NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/614px-Al_Jazeera.svg.png" group-title="BOUQUET  ARABE",|AR.QAT|  AL JAZEERA NEWS
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.QAT|  AL JAZEERA NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/614px-Al_Jazeera.svg.png" group-title="Arabic Ch.",|AR.QAT|  AL JAZEERA NEWS
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/746
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.QAT|  AL JAZEERA MUBASHER" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/63/Al_Jazeera_Mubasher.png/revision/latest?cb=20120211110554" group-title="BOUQUET  ARABE",|AR.QAT|  AL JAZEERA MUBASHER
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.QAT|  AL JAZEERA MUBASHER" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/63/Al_Jazeera_Mubasher.png/revision/latest?cb=20120211110554" group-title="Arabic Ch.",|AR.QAT|  AL JAZEERA MUBASHER
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2132
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.QAT|  ALKASS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="BOUQUET  ARABE",|AR.QAT|  ALKASS 1
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.QAT|  ALKASS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="Arabic Ch.",|AR.QAT|  ALKASS 1
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1843
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.QAT|  ALKASS 2" tvg-logo="https://2.bp.blogspot.com/-bvKVTrMPoos/WvMXLESGiwI/AAAAAAAAO4g/loYHwLuaKkQPUD1iBpLBDo2CiIV4ooL-ACLcBGAs/s1600/alkas2.png" group-title="BOUQUET  ARABE",|AR.QAT|  ALKASS 2
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.QAT|  ALKASS 2" tvg-logo="https://2.bp.blogspot.com/-bvKVTrMPoos/WvMXLESGiwI/AAAAAAAAO4g/loYHwLuaKkQPUD1iBpLBDo2CiIV4ooL-ACLcBGAs/s1600/alkas2.png" group-title="Arabic Ch.",|AR.QAT|  ALKASS 2
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1841
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.QAT|  ALKASS 3" tvg-logo="" group-title="BOUQUET  ARABE",|AR.QAT|  ALKASS 3
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.QAT|  ALKASS 3" tvg-logo="" group-title="Arabic Ch.",|AR.QAT|  ALKASS 3
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2136
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.QAT|  ALKASS 4" tvg-logo="https://masr140.com/wp-content/uploads/2016/11/%D8%A7%D9%84%D9%83%D8%A3%D8%B3-4-300x271.png" group-title="BOUQUET  ARABE",|AR.QAT|  ALKASS 4
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.QAT|  ALKASS 4" tvg-logo="https://masr140.com/wp-content/uploads/2016/11/%D8%A7%D9%84%D9%83%D8%A3%D8%B3-4-300x271.png" group-title="Arabic Ch.",|AR.QAT|  ALKASS 4
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2137
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.QAT|  ALKASS 5" tvg-logo="" group-title="BOUQUET  ARABE",|AR.QAT|  ALKASS 5
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.QAT|  ALKASS 5" tvg-logo="" group-title="Arabic Ch.",|AR.QAT|  ALKASS 5
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2138
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  LBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/9/9a/Lbcilogo.png/280px-Lbcilogo.png" group-title="BOUQUET  ARABE",|AR.LIBAN|  LBC HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  LBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/9/9a/Lbcilogo.png/280px-Lbcilogo.png" group-title="Arabic Ch.",|AR.LIBAN|  LBC HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1791
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  AL MANAR" tvg-logo="" group-title="BOUQUET  ARABE",|AR.LIBAN|  AL MANAR
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  AL MANAR" tvg-logo="" group-title="Arabic Ch.",|AR.LIBAN|  AL MANAR
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1803
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  AL JADEED" tvg-logo="" group-title="BOUQUET  ARABE",|AR.LIBAN|  AL JADEED
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  AL JADEED" tvg-logo="" group-title="Arabic Ch.",|AR.LIBAN|  AL JADEED
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2128
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  AL ALAM" tvg-logo="http://nna-leb.gov.lb/files/pictures/1487952809_Alalam.png" group-title="BOUQUET  ARABE",|AR.LIBAN|  AL ALAM
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  AL ALAM" tvg-logo="http://nna-leb.gov.lb/files/pictures/1487952809_Alalam.png" group-title="Arabic Ch.",|AR.LIBAN|  AL ALAM
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2168
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  MTV LEBANON" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/mtv-lebanon-png.png" group-title="BOUQUET  ARABE",|AR.LIBAN|  MTV LEBANON
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  MTV LEBANON" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/mtv-lebanon-png.png" group-title="Arabic Ch.",|AR.LIBAN|  MTV LEBANON
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1870
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  NBN TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/NBN_TV-1-.png/revision/latest/scale-to-width-down/640?cb=20180609035709" group-title="BOUQUET  ARABE",|AR.LIBAN|  NBN TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  NBN TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/NBN_TV-1-.png/revision/latest/scale-to-width-down/640?cb=20180609035709" group-title="Arabic Ch.",|AR.LIBAN|  NBN TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1874
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  LDC  LEBANON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LDC_logo_new.png" group-title="BOUQUET  ARABE",|AR.LIBAN|  LDC  LEBANON
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  LDC  LEBANON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LDC_logo_new.png" group-title="Arabic Ch.",|AR.LIBAN|  LDC  LEBANON
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1872
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  AL MAYADEN TV" tvg-logo="http://cdnar.almayadeen.net/cdn/website/images/web-logo.png" group-title="BOUQUET  ARABE",|AR.LIBAN|  AL MAYADEN TV
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  AL MAYADEN TV" tvg-logo="http://cdnar.almayadeen.net/cdn/website/images/web-logo.png" group-title="Arabic Ch.",|AR.LIBAN|  AL MAYADEN TV
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2169
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  NBN" tvg-logo="https://sc.dish.com/shared/images/station-logos/nbn.png" group-title="BOUQUET  ARABE",|AR.LIBAN|  NBN
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIBAN|  NBN" tvg-logo="https://sc.dish.com/shared/images/station-logos/nbn.png" group-title="Arabic Ch.",|AR.LIBAN|  NBN
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1775
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.SYR|  SYRIA DRAMA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.SYR|  SYRIA DRAMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.SYR|  SYRIA DRAMA" tvg-logo="" group-title="Arabic Ch.",|AR.SYR|  SYRIA DRAMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1985
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.SYR|  SYRIA  DRAMA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.SYR|  SYRIA  DRAMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.SYR|  SYRIA  DRAMA" tvg-logo="" group-title="Arabic Ch.",|AR.SYR|  SYRIA  DRAMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2196
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.SYR|  SYRIA LKHBARIA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.SYR|  SYRIA LKHBARIA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.SYR|  SYRIA LKHBARIA" tvg-logo="" group-title="Arabic Ch.",|AR.SYR|  SYRIA LKHBARIA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2195
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.SYR|  SYRIA" tvg-logo="https://soombo.com/assets/images/200_1458218895.png" group-title="BOUQUET  ARABE",|AR.SYR|  SYRIA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.SYR|  SYRIA" tvg-logo="https://soombo.com/assets/images/200_1458218895.png" group-title="Arabic Ch.",|AR.SYR|  SYRIA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2133
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.SYR|  SYRIA AL OULA" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3565441_.png" group-title="BOUQUET  ARABE",|AR.SYR|  SYRIA AL OULA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.SYR|  SYRIA AL OULA" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3565441_.png" group-title="Arabic Ch.",|AR.SYR|  SYRIA AL OULA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1986
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIB| LIBYA" tvg-logo="http://libyatv.com/LibyaTVlogo.png" group-title="BOUQUET  ARABE",|AR.LIB| LIBYA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.LIB| LIBYA" tvg-logo="http://libyatv.com/LibyaTVlogo.png" group-title="Arabic Ch.",|AR.LIB| LIBYA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2672
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.SYR|  SAMA TV SYRIA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.SYR|  SAMA TV SYRIA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.SYR|  SAMA TV SYRIA" tvg-logo="" group-title="Arabic Ch.",|AR.SYR|  SAMA TV SYRIA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1771
-#EXTINF:-1 tvg-ID="" tvg-name="----------- BOUQUET OSN ARABE -----------" tvg-logo="" group-title="BOUQUET  OSN",----------- BOUQUET OSN ARABE -----------
+#EXTINF:-1 tvg-ID="" tvg-name="----------- OSNArabic Ch. -----------" tvg-logo="" group-title="OSN",----------- OSNArabic Ch. -----------
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2448
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN WWE FIGHT" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN WWE FIGHT
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN WWE FIGHT" tvg-logo="" group-title="OSN",|AR.KSA|  OSN WWE FIGHT
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2122
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN  MOVIES PREMIERE HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN  MOVIES PREMIERE HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN  MOVIES PREMIERE HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN  MOVIES PREMIERE HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1979
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES  PREMIERE 2 HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIES  PREMIERE 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES  PREMIERE 2 HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN MOVIES  PREMIERE 2 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1446
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN CINEMA 1" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN CINEMA 1
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN CINEMA 1" tvg-logo="" group-title="OSN",|AR.KSA|  OSN CINEMA 1
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1465
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN CINEMA 2" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN CINEMA 2
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN CINEMA 2" tvg-logo="" group-title="OSN",|AR.KSA|  OSN CINEMA 2
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1974
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN ORBIT CINEMA 2 HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN ORBIT CINEMA 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN ORBIT CINEMA 2 HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN ORBIT CINEMA 2 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/235
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN ON DEMAND 1" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN ON DEMAND 1
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN ON DEMAND 1" tvg-logo="" group-title="OSN",|AR.KSA|  OSN ON DEMAND 1
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1448
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN ON DEMANDE 2" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN ON DEMANDE 2
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN ON DEMANDE 2" tvg-logo="" group-title="OSN",|AR.KSA|  OSN ON DEMANDE 2
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2436
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIES HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN MOVIES HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1469
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES ACTION 2 HD" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/397199_logo_osn_movies_action_3.png" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIES ACTION 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES ACTION 2 HD" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/397199_logo_osn_movies_action_3.png" group-title="OSN",|AR.KSA|  OSN MOVIES ACTION 2 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1458
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES ACTION HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/OSN_Movies_Action.png/revision/latest?cb=20111116193011" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIES ACTION HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES ACTION HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/OSN_Movies_Action.png/revision/latest?cb=20111116193011" group-title="OSN",|AR.KSA|  OSN MOVIES ACTION HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1457
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES BOX OFFICE 1" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIES BOX OFFICE 1
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES BOX OFFICE 1" tvg-logo="" group-title="OSN",|AR.KSA|  OSN MOVIES BOX OFFICE 1
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1456
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES BOX OFFICE 2" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIES BOX OFFICE 2
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES BOX OFFICE 2" tvg-logo="" group-title="OSN",|AR.KSA|  OSN MOVIES BOX OFFICE 2
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1455
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES BOX OFFICE 3" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIES BOX OFFICE 3
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES BOX OFFICE 3" tvg-logo="" group-title="OSN",|AR.KSA|  OSN MOVIES BOX OFFICE 3
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1454
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES BOX OFFICE 3 HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIES BOX OFFICE 3 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES BOX OFFICE 3 HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN MOVIES BOX OFFICE 3 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/230
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES COMEDY" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/OSN_Movies_Comedy.png/revision/latest?cb=20111116193416" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIES COMEDY
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES COMEDY" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/OSN_Movies_Comedy.png/revision/latest?cb=20111116193416" group-title="OSN",|AR.KSA|  OSN MOVIES COMEDY
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1453
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES  DRAMA" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIES  DRAMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES  DRAMA" tvg-logo="" group-title="OSN",|AR.KSA|  OSN MOVIES  DRAMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1452
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES FESTIVAL HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIES FESTIVAL HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES FESTIVAL HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN MOVIES FESTIVAL HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1451
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES FESTIVAL 2 HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIES FESTIVAL 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES FESTIVAL 2 HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN MOVIES FESTIVAL 2 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1450
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES STAR HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIES STAR HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES STAR HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN MOVIES STAR HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1449
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES 2" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1214_1.png" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIES 2
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIES 2" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1214_1.png" group-title="OSN",|AR.KSA|  OSN MOVIES 2
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1447
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN STAR WORLD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN STAR WORLD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN STAR WORLD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN STAR WORLD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1444
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MBC DRAMA HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN MBC DRAMA HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MBC DRAMA HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN MBC DRAMA HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1459
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN ENIGMA HD" tvg-logo="http://www.shoofeetv.com/images/2013/09/20130910183954_channelsbig.png" group-title="BOUQUET  OSN",|AR.KSA|  OSN ENIGMA HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN ENIGMA HD" tvg-logo="http://www.shoofeetv.com/images/2013/09/20130910183954_channelsbig.png" group-title="OSN",|AR.KSA|  OSN ENIGMA HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1442
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN YAHALA DRAMA HD" tvg-logo="http://www.ewsat.com/img/OSN_HALA_DRAMA.png" group-title="BOUQUET  OSN",|AR.KSA|  OSN YAHALA DRAMA HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN YAHALA DRAMA HD" tvg-logo="http://www.ewsat.com/img/OSN_HALA_DRAMA.png" group-title="OSN",|AR.KSA|  OSN YAHALA DRAMA HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1443
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN DISCOVERY HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN DISCOVERY HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN DISCOVERY HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN DISCOVERY HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1973
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN FINE LIVING" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN FINE LIVING
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN FINE LIVING" tvg-logo="" group-title="OSN",|AR.KSA|  OSN FINE LIVING
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2652
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN FANN" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN FANN
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN FANN" tvg-logo="" group-title="OSN",|AR.KSA|  OSN FANN
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2651
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN YA HALA" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3780295_logo_osn_yahala_cinema.png" group-title="BOUQUET  OSN",|AR.KSA|  OSN YA HALA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN YA HALA" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3780295_logo_osn_yahala_cinema.png" group-title="OSN",|AR.KSA|  OSN YA HALA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1980
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN ANIMAL PLANET HD" tvg-logo="http://dokpal.ps//Files/636667024441790000.png" group-title="BOUQUET  OSN",|AR.KSA|  OSN ANIMAL PLANET HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN ANIMAL PLANET HD" tvg-logo="http://dokpal.ps//Files/636667024441790000.png" group-title="OSN",|AR.KSA|  OSN ANIMAL PLANET HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1467
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIE FIRST HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIE FIRST HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIE FIRST HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN MOVIE FIRST HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1461
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN  ORBIT CINEMA 1 HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN  ORBIT CINEMA 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN  ORBIT CINEMA 1 HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN  ORBIT CINEMA 1 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2717
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN DISCOVERY SCIENCE" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN DISCOVERY SCIENCE
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN DISCOVERY SCIENCE" tvg-logo="" group-title="OSN",|AR.KSA|  OSN DISCOVERY SCIENCE
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2708
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIE COMEDY 2 HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIE COMEDY 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIE COMEDY 2 HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN MOVIE COMEDY 2 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2707
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIE FAMILY HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIE FAMILY HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIE FAMILY HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN MOVIE FAMILY HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2714
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIE FIRST +2 HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIE FIRST +2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIE FIRST +2 HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN MOVIE FIRST +2 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2711
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN NATIONAL GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Nat_Geo_People.png" group-title="BOUQUET  OSN",|AR.KSA|  OSN NATIONAL GEO
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN NATIONAL GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Nat_Geo_People.png" group-title="OSN",|AR.KSA|  OSN NATIONAL GEO
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2713
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN NAT GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="BOUQUET  OSN",|AR.KSA|  OSN NAT GEO WILD HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN NAT GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="OSN",|AR.KSA|  OSN NAT GEO WILD HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2712
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN SERIES FIRST  HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN SERIES FIRST  HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN SERIES FIRST  HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN SERIES FIRST  HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2704
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN SYFY" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN SYFY
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN SYFY" tvg-logo="" group-title="OSN",|AR.KSA|  OSN SYFY
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2700
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN YAHALA CINEMA" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1285_1.png" group-title="BOUQUET  OSN",|AR.KSA|  OSN YAHALA CINEMA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN YAHALA CINEMA" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1285_1.png" group-title="OSN",|AR.KSA|  OSN YAHALA CINEMA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2716
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN STAR MOVIE HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN STAR MOVIE HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN STAR MOVIE HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN STAR MOVIE HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2706
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN SERIES HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN SERIES HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN SERIES HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN SERIES HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/6508
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN COMEDY HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN COMEDY HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN COMEDY HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN COMEDY HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/6507
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN AL YOUM HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN AL YOUM HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN AL YOUM HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN AL YOUM HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2702
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIE THRILLER +2 HD" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA|  OSN MOVIE THRILLER +2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA|  OSN MOVIE THRILLER +2 HD" tvg-logo="" group-title="OSN",|AR.KSA|  OSN MOVIE THRILLER +2 HD
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665014690
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA| OSN MUSIC NOW" tvg-logo="" group-title="BOUQUET  OSN",|AR.KSA| OSN MUSIC NOW
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.KSA| OSN MUSIC NOW" tvg-logo="" group-title="OSN",|AR.KSA| OSN MUSIC NOW
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017343
-#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR| CHADA" tvg-logo="" group-title="BOUQUET  ARABE",|AR.MAR| CHADA
+#EXTINF:-1 tvg-ID="" tvg-name="|AR.MAR| CHADA" tvg-logo="" group-title="Arabic Ch.",|AR.MAR| CHADA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/265012430
