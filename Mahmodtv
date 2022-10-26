@@ -1,52 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="" tvg-name="----------- SPORTArabic Ch. -----------" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN SPORTS AR",----------- SPORTArabic Ch. -----------
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2446
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1 PREMIUM FHD" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 1 PREMIUM FHD
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665021082
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2 PREMIUM FHD" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 2 PREMIUM FHD
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665021083
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3 PREMIUM FHD" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 3 PREMIUM FHD
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665021084
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1 HD local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 1 HD local
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665018450
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1 HD  local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 1 HD  local
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665018214
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2 HD local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 2 HD local
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665018215
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3 HD local " tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 3 HD local 
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665018216
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 4 HD local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 4 HD local
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665018217
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 5 HD local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 5 HD local
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665019578
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 6 HD local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 6 HD local
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665019579
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 7 HD local  " tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 7 HD local  
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665019580
-#EXTINF:-1 tvg-ID="BeIN Sports MENA News" tvg-name="|BEIN|  BEIN SPORTS NEWS HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png" group-title="BEIN SPORTS AR",|BEIN|  BEIN SPORTS NEWS HD
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1898
-#EXTINF:-1 tvg-ID="BeIN Sports MENA News" tvg-name="|BEIN|  BEIN SPORTS NEWS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png" group-title="BEIN SPORTS AR",|BEIN|  BEIN SPORTS NEWS
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1815
-#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN SPORTS 1 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN SPORTS 1 FHD.
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9681
-#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN SPORTS 2 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN SPORTS 2 FHD.
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9680
-#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN SPORTS 3 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN SPORTS 3 FHD.
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9679
-#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN SPORTS 4 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN SPORTS 4 FHD.
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9678
-#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN SPORTS 5 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN SPORTS 5 FHD.
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9677
-#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN SPORTS 6 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN SPORTS 6 FHD.
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9676
-#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN SPORTS 7 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN SPORTS 7 FHD.
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9675
-#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN EXTRA 1 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN EXTRA 1 FHD.
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9674
-#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN EXTRA 2 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN EXTRA 2 FHD.
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9673
-
 #EXTINF:-1 tvg-ID="" tvg-name="======== OTHERS SPORTS ========" tvg-logo="" group-title="Arabic Ch.",======== OTHERS SPORTS ========
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/3561
 #EXTINF:-1 tvg-ID="" tvg-name="|UAE|  ABUDHABI SPORT 1 HD" tvg-logo="https://1.bp.blogspot.com/-QT2oTzGaTCo/WlEIZI49Y8I/AAAAAAAAAWs/4_2pxdyrpTMSTu6bNmxdzu_ZsYzuYEK-gCLcBGAs/s1600/1-%25D8%25AA%25D8%25B1%25D8%25AF%25D8%25AF-%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9-%25D8%25A3%25D8%25A8%25D9%2588%25D8%25B8%25D8%25A8%25D9%258A-%25D8%25A7%25D9%2584%25D8%25B1%25D9%258A%25D8%25A7%25D8%25B6%25D9%258A%25D8%25A9-abu-dhabi-sports.png" group-title="Arabic Ch.",|UAE|  ABUDHABI SPORT 1 HD
@@ -623,3 +576,50 @@ http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665014690
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665017343
 #EXTINF:-1 tvg-ID="" tvg-name="CHADA" tvg-logo="" group-title="Arabic Ch.",CHADA
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/265012430
+
+#EXTINF:-1 tvg-ID="" tvg-name="----------- SPORTArabic Ch. -----------" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN SPORTS AR",----------- SPORTArabic Ch. -----------
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2446
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1 PREMIUM FHD" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 1 PREMIUM FHD
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665021082
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2 PREMIUM FHD" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 2 PREMIUM FHD
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665021083
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3 PREMIUM FHD" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 3 PREMIUM FHD
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665021084
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1 HD local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 1 HD local
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665018450
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1 HD  local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 1 HD  local
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665018214
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2 HD local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 2 HD local
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665018215
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3 HD local " tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 3 HD local 
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665018216
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 4 HD local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 4 HD local
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665018217
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 5 HD local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 5 HD local
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665019578
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 6 HD local" tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 6 HD local
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665019579
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 7 HD local  " tvg-logo="" group-title="BEIN SPORTS AR",BEIN SPORTS 7 HD local  
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/665019580
+#EXTINF:-1 tvg-ID="BeIN Sports MENA News" tvg-name="|BEIN|  BEIN SPORTS NEWS HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png" group-title="BEIN SPORTS AR",|BEIN|  BEIN SPORTS NEWS HD
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1898
+#EXTINF:-1 tvg-ID="BeIN Sports MENA News" tvg-name="|BEIN|  BEIN SPORTS NEWS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png" group-title="BEIN SPORTS AR",|BEIN|  BEIN SPORTS NEWS
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1815
+#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN SPORTS 1 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN SPORTS 1 FHD.
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9681
+#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN SPORTS 2 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN SPORTS 2 FHD.
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9680
+#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN SPORTS 3 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN SPORTS 3 FHD.
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9679
+#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN SPORTS 4 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN SPORTS 4 FHD.
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9678
+#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN SPORTS 5 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN SPORTS 5 FHD.
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9677
+#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN SPORTS 6 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN SPORTS 6 FHD.
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9676
+#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN SPORTS 7 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN SPORTS 7 FHD.
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9675
+#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN EXTRA 1 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN EXTRA 1 FHD.
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9674
+#EXTINF:-1 tvg-ID="" tvg-name="|BEIN| BEIN EXTRA 2 FHD." tvg-logo="" group-title="BEIN SPORTS AR",|BEIN| BEIN EXTRA 2 FHD.
+http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9673
