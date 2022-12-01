@@ -1,7 +1,10 @@
 #EXTM3U
 coming soon (https://static.videezy.com/system/resources/previews/000/051/767/original/200717-LoopComingSoonBlueNeonSpace.mp4)
 
-
+#EXTINF:-1 tvg-id="tvg-name=""7"group-title="صالون زهرة"
+https://fvideo6.ddns.me/vod5nn/salon-zahra-2-7_muxed.mp4/chunk.m3u8
+#EXTINF:-1 tvg-id="tvg-name=""8"group-title="صالون زهرة"
+https://fvideo6.ddns.me/vod5nn/salon-zahra-2-8_muxed.mp4/chunk.m3u8
 --------------------------------------طير بينا ياقلبي-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""طير بينا ياقلبي SE1" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/tir-bina-yaqalbi.jpg"group-title="طير بينا ياقلبي",طير بينا ياقلبي SE1
 https://fvideo6.ddns.me/vod5nn/teer-bena-1_muxed.mp4/chunk.m3u8
