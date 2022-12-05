@@ -21,8 +21,7 @@ http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9675
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9674
 #EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| BEIN EXTRA 2 FHD." tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| BEIN EXTRA 2 FHD.
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/9673
-#EXTINF:-1 tvg-ID="" tvg-name="----------- BEINSPORT H265 FHD -----------" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="BOUQUET BEIN SPORTS AR",----------- BEINSPORT H265 FHD -----------
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/6822
+
 #EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| beIN SPORTS 1 HEVC" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| beIN SPORTS 1 HEVC
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/8567
 #EXTINF:-1 tvg-ID="" tvg-name="|AR.BEIN| beIN SPORTS 2 HEVC" tvg-logo="" group-title="BOUQUET BEIN SPORTS AR",|AR.BEIN| beIN SPORTS 2 HEVC
@@ -347,8 +346,7 @@ http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1790
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/1768
 #EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM| AL RESALAH" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ISLAM| AL RESALAH
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2938
-#EXTINF:-1 tvg-ID="" tvg-name="----------- OTHERS -----------" tvg-logo="" group-title="BOUQUET  ARABE",----------- OTHERS -----------
-http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/2465
+
 #EXTINF:-1 tvg-ID="" tvg-name="|AR| TRT ARABIC" tvg-logo="" group-title="BOUQUET  ARABE",|AR| TRT ARABIC
 http://goldtvhd.tv:8080/ft45.mine.nu/tZ64wEN8oe/265011126
 #EXTINF:-1 tvg-ID="" tvg-name="|AR.ISLAM| AL QUDS" tvg-logo="" group-title="BOUQUET  ARABE",|AR.ISLAM| AL QUDS
