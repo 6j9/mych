@@ -41,7 +41,7 @@ https://fvideo6.ddns.me/vod5nn/azmt-montsaf-10_muxed.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""أزمة منتصف العمر SE18" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/Egy/imgAm.jpg"group-title="أزمة منتصف العمر",أزمة منتصف العمر SE18
 #EXTINF:-1 tvg-id="tvg-name=""أزمة منتصف العمر SE19" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/Egy/imgAm.jpg"group-title="أزمة منتصف العمر",أزمة منتصف العمر SE19
 #EXTINF:-1 tvg-id="tvg-name=""أزمة منتصف العمر SE20" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/Egy/imgAm.jpg"group-title="أزمة منتصف العمر",أزمة منتصف العمر SE20
-
+#EXTINF
 --------------------------------------براندو الشرق-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""براندو الشرق SE1" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/imgbch.jpg"group-title="براندو الشرق",براندو الشرق SE1
 https://fvideo6.ddns.me/vod5nn/brando-alshrk-1_muxed.mp4/playlist.m3u8
@@ -105,7 +105,7 @@ https://fvideo6.ddns.me/vod5nn/akl-mn-3ade-10_muxed.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""أقل من عادي SE18" tvg-logo="https://github.com/6j9/mych/blob/master/img/1919.jpg?raw=true"group-title="أقل من عادي",أقل من عادي SE18
 #EXTINF:-1 tvg-id="tvg-name=""أقل من عادي SE19" tvg-logo="https://github.com/6j9/mych/blob/master/img/1919.jpg?raw=true"group-title="أقل من عادي",أقل من عادي SE19
 #EXTINF:-1 tvg-id="tvg-name=""أقل من عادي SE20" tvg-logo="https://github.com/6j9/mych/blob/master/img/1919.jpg?raw=true"group-title="أقل من عادي",أقل من عادي SE20
-
+#EXTINF
 --------------------------------------الثمن-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""الثمن SE1" tvg-logo="https://github.com/6j9/mych/blob/master/img/1915%5B1%5D.jpg?raw=true"group-title="الثمن",الثمن SE1
 https://fvideo6.ddns.me/vod5nn/altmn-1_muxed.mp4/chunk.m3u8
@@ -162,6 +162,8 @@ https://fvideo6.ddns.me/vod5nn/altamn-25_muxed.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name=""الثمن SE28" tvg-logo="https://github.com/6j9/mych/blob/master/img/1915%5B1%5D.jpg?raw=true"group-title="الثمن",الثمن SE28
 #EXTINF:-1 tvg-id="tvg-name=""الثمن SE29" tvg-logo="https://github.com/6j9/mych/blob/master/img/1915%5B1%5D.jpg?raw=true"group-title="الثمن",الثمن SE29
 #EXTINF:-1 tvg-id="tvg-name=""الثمن SE30" tvg-logo="https://github.com/6j9/mych/blob/master/img/1915%5B1%5D.jpg?raw=true"group-title="الثمن",الثمن SE30
+#EXTINF
+
 --------------------------------------طير بينا ياقلبي-------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name=""طير بينا ياقلبي SE1" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/tir-bina-yaqalbi.jpg"group-title="طير بينا ياقلبي",طير بينا ياقلبي SE1
 https://fvideo6.ddns.me/vod5nn/teer-bena-1_muxed.mp4/chunk.m3u8
