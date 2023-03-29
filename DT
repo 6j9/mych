@@ -1,6 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tvg-name=""دون تاون S1E01" tvg-logo="https://github.com/6j9/mych/blob/master/img/DT.jpg?raw=true"group-title="دون توت ",دون تون S1E01
-https://s40.vidsharcdn.com/hls/pdompnezjkm4f4kmlevcfplsp4koobvzeysi2qij4rhsjzxolgbllnfr5ikq/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="tvg-name=""دون تاون S1E02" tvg-logo="https://github.com/6j9/mych/blob/master/img/DT.jpg?raw=true"group-title="دون توت ",دون تون S1E02
-https://s41.vidsharcdn.com/hls/pdomnnuzjkm4f4kmlevcf2tfhfkycyv36hghgagvmlvgws2tpbxqebd7osza/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="tvg-name=5
+https://fvideo6b.ddns.me/vod5nn/zkak-aljen-5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=6
+https://fvideo6.ddns.me/vod5nn/zaqaq-ljen-6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name=7
+https://fvideo6b.ddns.me/vod5nn/zakak-aljen-7.mp4/playlist.m3u8
