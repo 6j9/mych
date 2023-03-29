@@ -1,5 +1,12 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="tvg-name="1 زقاق الجن"
+https://fvideo6.ddns.me/vod5nn/zkak-aljen-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name="2 زقاق الجن"
+https://fvideo6b.ddns.me/vod5nn/zkak-aljen-2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name="3 زقاق الجن"
+https://fvideo6b.ddns.me/vod5nn/zaqaq-ljen-3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name="4 زقاق الجن"
+https://fvideo6b.ddns.me/vod5nn/zaqaq-ljen-4.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name="5 زقاق الجن"
 https://fvideo6b.ddns.me/vod5nn/zkak-aljen-5.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name="6 زقاق الجن"
