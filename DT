@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tvg-name="مربى العز 11"
-https://fvideo6.ddns.me/vod5nn/marba-al3z-11.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="tvg-name="مربى العز 13"
-https://fvideo6.ddns.me/vod5nn/mrba-al3z-12.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name="مربى العز 17"
+https://fvideo6.ddns.me/vod5nn/marba-l3ez-17.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name="مربى العز 18"
+https://fvideo6.ddns.me/vod5nn/marba-al3ez-17.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name="مربى العز 19"
+https://fvideo6.ddns.me/vod5nn/mrba-al3z-19_muxed.mp4/playlist.m3u8
