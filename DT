@@ -1,7 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tvg-name="مربى العز 17"
-https://fvideo6.ddns.me/vod5nn/marba-l3ez-17.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="tvg-name="مربى العز 18"
-https://fvideo6.ddns.me/vod5nn/marba-al3ez-17.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="tvg-name="مربى العز 19"
-https://fvideo6.ddns.me/vod5nn/mrba-al3z-19_muxed.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name="مربى العز 21"
+https://fvideo6.ddns.me/vod5nn/mrba-al3z-21_muxed.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name="مربى العز 22"
+https://fvideo6.ddns.me/vod5nn/marba-l3ez-22_muxed.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name="مربى العز 23"
+https://fvideo6.ddns.me/vod5nn/marba-al3z-23.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name="مربى العز 24"
+https://fvideo6.ddns.me/vod5nn/mrba-al3z-24_muxed.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name="مربى العز 25"
+https://fvideo6.ddns.me/vod5nn/mrba-al3z-25.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name="مربى العز 26"
+https://fvideo6.ddns.me/vod5nn/mrba-al3z-26_muxed.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name="مربى العز 27"
+https://fvideo6.ddns.me/vod5nn/mrba-al3z-27_muxed.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name="مربى العز 28"
+https://fvideo6.ddns.me/vod5nn/mrba-al3z-28_muxed.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name="مربى العز 29"
+https://fvideo6.ddns.me/vod5nn/marba-al3z-29_muxed.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name="مربى العز 30"
+https://fvideo6.ddns.me/vod5nn/marba-l3ez-30-f.mp4/playlist.m3u8
+
