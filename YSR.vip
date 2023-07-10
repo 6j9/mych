@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="The Hobbit: The Battle of the Five Armies" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xT98tLqatZPQApyRmlPL12LtiWp.jpg" group-title="ENGLISH MOVIES",The Hobbit: The Battle of the Five Armies
+http://beouttv.xyz:80/movie/211916492522/mSnS5yrwB1/520510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hobbit: The Desolation of Smaug" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg" group-title="ENGLISH MOVIES",The Hobbit: The Desolation of Smaug
+http://beouttv.xyz:80/movie/211916492522/mSnS5yrwB1/520509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hobbit: An Unexpected Journey" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg" group-title="ENGLISH MOVIES",The Hobbit: An Unexpected Journey
+http://beouttv.xyz:80/movie/211916492522/mSnS5yrwB1/520508.mkv
+---------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord Of The Rings The Fellowship Of The Ring 2001" tvg-ogo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg" group-title="ENGLISH MOVIES",The Lord of the Rings: The Fellowship 2001
+https://encodingdsdscklrui743wjfvjnvjsd2ldkjof9432jfsdkjjksd8932knmkv.liiivideo.com/hls/ritpxlmqrcapc3jy7boo4gg6yve47k6kprfjr7fsfakpn75sh3xhisvcobcq/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings: The Two Towers  2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg" group-title="ENGLISH MOVIES",The Lord of the Rings: The Two Towers  2002
+https://encodingdsdscklrui743wjfvjnvjsd2ldkjof9432jfsdkjjksd8932knmkv.liiivideo.com/hls/ritpxieqrcapc3jy7boo4f45z7qjby7um77ifsmb7icudpgt45tbckelt6ja/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord Of The Rings The Return Of The King 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg" group-title="ENGLISH MOVIES",The Lord Of The Rings: The Return Of The King 2003
+https://encodingdsdscklrui743wjfvjnvjsd2ldkjof9432jfsdkjjksd8932knmkv.liiivideo.com/hls/ritpxl4qrcapc3jy7boo4hgf3pshnvjncpvf2f5lhbhs5kfis26m76izvepq/index-v1-a1.m3u8
