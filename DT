@@ -1,5 +1,14 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="tvg-name="لتأتي الحياة 40"
+https://cdn-cached-34-w.dailymotionz.cam/hls/zmy5kkxo7gnnzmnho7iazf35m4kb2zkrpn6evbccvswv2kbfqbm5gpknpzaa/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="tvg-name="لتأتي الحياة 41"
+https://cdn-cached-34-w.dailymotionz.cam/hls/zmy5k2xo7gnnzmnho7iazt33nrwbccsnpswjaawl4o2wffdqg5tieqk44rkq/index-v1-a1.m3u8
+--------------------------------------------------
+#EXTINF:-1 tvg-id="tvg-name=" فرح13 "
+https://cdn-cached-34-w.dailymotionz.cam/hls/zmy5kx7o7gnnzmnho7iaztzfesarrrfnzzgo2gwbkhthtz2mvh3fl7au5xeq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="tvg-name=" فرح14 "
+https://cdn-cached-35-w.dailymotionz.cam/hls/zmy5nlpo7gnnzmnho7iazsltmacmxeyrdbyi6rx5pvhgjepa3cpacaefffoq/index-v1-a1.m3u8
+--------------------------------------------------------
 #EXTINF:-1 tvg-id="tvg-name="khareef-3omar-1"
 https://fvideo6.ddns.me/vod5nn/khareef-3omar-1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name="khareef-3omar-2"
