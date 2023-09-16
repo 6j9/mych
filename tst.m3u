@@ -1,11 +1,3 @@
 #EXTM3U
 
---------------------------------------أزمة منتصف العمر-------------------------------------------------
-#EXTINF:-1 tvg-id="tvg-name=""أزمة منتصف العمر SE1" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/Egy/imgAm.jpg"group-title="أزمة منتصف العمر",أزمة منتصف العمر SE1
-https://fvideo6.ddns.me/vod5nn/azmt-montsaf-1_muxed.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="tvg-name=""أزمة منتصف العمر SE2" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/Egy/imgAm.jpg"group-title="أزمة منتصف العمر",أزمة منتصف العمر SE2
-https://fvideo6.ddns.me/vod5nn/azmt-montsaf-2_muxed.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="tvg-name=""أزمة منتصف العمر SE3" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/Egy/imgAm.jpg"group-title="أزمة منتصف العمر",أزمة منتصف العمر SE3
-https://fvideo6.ddns.me/vod5nn/azmt-montsaf-3_muxed.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="tvg-name=""أزمة منتصف العمر SE4" tvg-logo="https://raw.githubusercontent.com/6j9/mych/master/img/Egy/imgAm.jpg"group-title="أزمة منتصف العمر",أزمة منتصف العمر SE4
-https://fvideo6.ddns.me/vod5nn/azmt-montsaf-4_muxed.mp4/playlist.m3u8
+All_series.m3u
