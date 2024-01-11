@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tvg-name= "X F4"
-https://psd1.youdbox.site/d/jcwr2ldsxm3qv3jsxkpnkzeopd4bo4pcwlqhydet6mecvkkdcl3tenwvnakomjcr5fixj5no/video.mp4
+#EXTINF:-1 tvg-id="tvg-name= "X F5"
+https://fvideo6.ddns.me/vod5nn/xfactor-3-5.mp4/playlist.m3u8#EXTINF:-1 tvg-id="tvg-name= "X F6"
+#EXTINF:-1 tvg-id="tvg-name= "X F6"
+https://fvideo6.ddns.me/vod5nn/xfactor-3-6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name= "X F7"
+https://fvideo6.ddns.me/vod5nn/xfactor-3-7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name= "X F8"
+https://fvideo6.ddns.me/vod5nn/xfactor-3-8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name= "X F9"
+https://fvideo6.ddns.me/vod5nn/xfactor-3-9_muxed.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-name= "X F10"
+https://fvideo6.ddns.me/vod5nn/xfactor-3-10_muxed.mp4/playlist.m3u8
+
+
