@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tvg-name= "12 ولاد بديعة" 
-https://cdn02.xoxcdn.com/hls/73ztmou3w6xcdqtb7xcpnssoas4exqmwou42kbz4ichjnkhnv4v4cpsjetja/master.m3u8
-#EXTINF:-1 tvg-id="tvg-name= "11 العربجي"
-https://n8xoe9cns7hlddhfvy.cdn-hd.com/5r63rwiezfjivea6gvg3efaogprhgcfsbryslmrng7mq75o6wclcotykwypq/v.mp4
+#EXTINF:-1 tvg-id="tvg-name= "13 ولاد بديعة" 
+https://cdn02.xoxcdn.com/hls/73ztniuyw6xcdqtb7xcpndicb7e7x2iaaiuclageuwguz4sqnro5eowo2nxa/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="tvg-name= "12 العربجي"
+https://cdn02.xoxcdn.com/hls/73ztmp4yw6xcdqtb7xcpnxaidhffk43grq3zb5vhk3ihsae6i3hasimwrxua/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="tvg-name= "12"
 #EXTINF:-1 tvg-id="tvg-name= "13"
 #EXTINF:-1 tvg-id="tvg-name= "14"
